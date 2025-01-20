@@ -2963,3 +2963,44 @@ com.google.gson.JsonSyntaxException: Unknown item tag 'forge:ingots/bronze'
 [20Jan2025 18:14:39.706] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [Victor y Joel] [Miembro] Bonra7Nt ③ has reached level 2 in mining! [minecraft:overworld|x:247.33|y:64.00|z:4.52]
 [20Jan2025 18:14:50.830] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: Rein_WNH has reached level 4 in combat! [minecraft:overworld|x:230.01|y:78.00|z:57.44]
 [20Jan2025 18:15:00.945] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [Victor y Joel] [Miembro] alexAJP ③ has reached level 3 in mining! [minecraft:overworld|x:240.33|y:40.00|z:8.85]
+[20Jan2025 18:15:13.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[20Jan2025 18:15:38.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] AquilesXD2 ②: Created team [SernicTactico]]
+[20Jan2025 18:15:39.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <[CREADOR] [PeneTactico] jony33D ②> @tou
+[20Jan2025 18:15:45.271] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/727, l='ServerLevel[world]', x=736.60, y=64.00, z=404.61] died, message: 'Librarian was slain by Guster'
+[20Jan2025 18:16:33.056] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [Victor y Joel] [Miembro] alexAJP ③ has reached level 4 in endurance! [minecraft:overworld|x:243.68|y:42.00|z:13.70]
+[20Jan2025 18:16:45.142] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [Victor y Joel] [Miembro] alexAJP ③ has reached level 4 in mining! [minecraft:overworld|x:243.53|y:44.00|z:15.24]
+[20Jan2025 18:17:00.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Victor y Joel] [Miembro] alexAJP ③ has made the advancement [Knowledge of Death]
+[20Jan2025 18:17:00.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Victor y Joel] [Miembro] alexAJP ③ has made the advancement [Easter Food]
+[20Jan2025 18:17:09.027] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [Victor y Joel] [Miembro] Bonra7Nt ③ has reached level 3 in mining! [minecraft:overworld|x:248.70|y:64.00|z:-0.50]
+[20Jan2025 18:17:20.035] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [Victor y Joel] [Miembro] alexAJP ③ has reached level 4 in agility! [minecraft:overworld|x:247.03|y:45.00|z:12.91]
+[20Jan2025 18:17:20.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] AquilesXD2 ②: Added Rein_WNH to team [SernicTactico]]
+[20Jan2025 18:17:38.449] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [Victor y Joel] [Miembro] Bonra7Nt ③ has reached level 2 in crafting! [minecraft:overworld|x:248.78|y:64.00|z:-1.39]
+[20Jan2025 18:17:44.939] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [PeneTactico] [Miembro] Rein_WNH has reached level 3 in agility! [minecraft:overworld|x:228.54|y:78.59|z:57.86]
+[20Jan2025 18:17:58.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CREADOR] [PeneTactico] jony33D ② fell from a high place
+[20Jan2025 18:17:58.944] [Server thread/INFO] [tombstone/]: The player jony33D has successfully been saved
+[20Jan2025 18:18:05.665] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [Victor y Joel] [Miembro] alexAJP ③ has reached level 5 in mining! [minecraft:overworld|x:248.47|y:43.00|z:12.33]
+[20Jan2025 18:19:13.913] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Nitwit'/572, l='ServerLevel[world]', x=283.70, y=71.00, z=105.30] died, message: 'Nitwit was slain by Zombie'
+[20Jan2025 18:19:22.576] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <[Victor y Joel] [Miembro] alexAJP ③> me desconecto un rato
+[20Jan2025 18:19:23.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <[Victor y Joel] [Miembro] alexAJP ③> esperame
+[20Jan2025 18:19:24.233] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: alexAJP lost connection: Disconnected
+[20Jan2025 18:19:24.233] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Victor y Joel] [Miembro] alexAJP ③ left the game
+[20Jan2025 18:19:58.376] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [Victor y Joel] [Miembro] Bonra7Nt ③ has reached level 4 in mining! [minecraft:overworld|x:251.41|y:64.00|z:-4.43]
+[20Jan2025 18:20:44.473] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [CREADOR] [PeneTactico] AquilesXD2 ② has reached level 8 in mining! [minecraft:overworld|x:641.96|y:19.00|z:399.66]
+[20Jan2025 18:21:06.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PeneTactico] [Miembro] Rein_WNH ③ has made the advancement [Stone Age]
+[20Jan2025 18:21:12.093] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [Victor y Joel] [Miembro] Bonra7Nt ③ has reached level 4 in woodcutting! [minecraft:overworld|x:206.15|y:69.00|z:36.69]
+[20Jan2025 18:21:31.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Victor y Joel] [Miembro] Bonra7Nt ③ has made the advancement [Monster Hunter]
+[20Jan2025 18:21:33.825] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [Victor y Joel] [Miembro] Bonra7Nt ③ has reached level 2 in combat! [minecraft:overworld|x:231.52|y:68.00|z:28.47]
+[20Jan2025 18:21:49.947] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [Victor y Joel] [Miembro] Bonra7Nt ③ has reached level 6 in agility! [minecraft:overworld|x:236.97|y:72.94|z:64.53]
+[20Jan2025 18:22:00.878] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [CREADOR] [PeneTactico] AquilesXD2 ② has reached level 14 in agility! [minecraft:overworld|x:641.02|y:20.00|z:408.30]
+[20Jan2025 18:22:27.220] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/729, l='ServerLevel[world]', x=701.47, y=70.00, z=367.49] died, message: 'Farmer was slain by Guster'
+[20Jan2025 18:22:31.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PeneTactico] [Miembro] Rein_WNH ③ has made the advancement [Alex's Mobs]
+[20Jan2025 18:22:31.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PeneTactico] [Miembro] Rein_WNH ③ has made the advancement [Easter Food]
+[20Jan2025 18:23:13.739] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [CREADOR] [PeneTactico] AquilesXD2 ② has reached level 9 in mining! [minecraft:overworld|x:649.30|y:14.00|z:379.30]
+[20Jan2025 18:23:15.058] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@54b9d2ed
+[20Jan2025 18:23:15.108] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: alexAJP[/127.54.24.30:42249] logged in with entity id 5707 at (245.11607764659294, 47.0, 16.056787724394567)
+[20Jan2025 18:23:15.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Victor y Joel] [Miembro] alexAJP ③ joined the game
+[20Jan2025 18:23:15.216] [Server thread/INFO] [harmonised.pmmo.ProjectMMOMod/]: Project MMO version: "3.69.0" Latest: "3.67"
+[20Jan2025 18:23:41.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PeneTactico] [Miembro] Rein_WNH ③ has made the advancement [Getting an Upgrade]
+[20Jan2025 18:24:23.781] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [Victor y Joel] [Miembro] Bonra7Nt ③ has reached level 5 in woodcutting! [minecraft:overworld|x:205.18|y:70.00|z:107.96]
+[20Jan2025 18:24:23.882] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [PeneTactico] [Miembro] Rein_WNH ③ has reached level 2 in woodcutting! [minecraft:overworld|x:215.62|y:74.00|z:48.66]
+[20Jan2025 18:24:44.724] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/542, l='ServerLevel[world]', x=233.70, y=55.03, z=103.70] died, message: 'Villager was slain by Zombie'

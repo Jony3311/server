@@ -4217,6 +4217,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-20 18:17:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:09:27 +0000"
@@ -4442,6 +4448,12 @@
   "minecraft:recipes/travelersbackpack/squid_smithing_diamond": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:09:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-20 18:17:00 +0000"
     },
     "done": true
   },
@@ -6836,6 +6848,12 @@
   "securitycraft:recipes/securitycraft/reinforced_sandstone_stairs": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:09:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/eat_easter_egg_food": {
+    "criteria": {
+      "coded_trigger": "2025-01-20 18:17:00 +0000"
     },
     "done": true
   },
