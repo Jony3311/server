@@ -4826,6 +4826,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-01-20 19:05:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:47:28 +0000"
@@ -9141,6 +9147,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-20 19:02:34 +0000",
       "cooked_mutton": "2025-01-20 18:52:31 +0000",
       "carrot": "2025-01-20 18:27:49 +0000"
     },

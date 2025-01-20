@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/dark_oak_post": {
+    "criteria": {
+      "has_item": "2025-01-20 19:10:27 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_diorite": {
     "criteria": {
       "has_the_recipe": "2025-01-20 03:00:01 +0000"
@@ -2513,6 +2519,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-20 19:10:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed": {
     "criteria": {
       "has_the_recipe": "2025-01-20 03:00:00 +0000"
@@ -3097,6 +3109,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-01-20 19:01:58 +0000",
       "minecraft:spider": "2025-01-20 18:53:23 +0000"
     },
     "done": false
@@ -8588,6 +8601,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-01-20 03:01:52 +0000",
+      "minecraft:desert": "2025-01-20 19:05:12 +0000",
+      "minecraft:river": "2025-01-20 19:04:32 +0000",
+      "minecraft:savanna": "2025-01-20 19:03:09 +0000",
       "minecraft:plains": "2025-01-20 03:00:01 +0000"
     },
     "done": false
