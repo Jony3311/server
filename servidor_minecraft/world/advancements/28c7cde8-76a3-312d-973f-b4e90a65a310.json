@@ -3980,6 +3980,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-01-20 17:45:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:36:00 +0000"
@@ -4031,6 +4037,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:36:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-01-20 17:41:32 +0000"
     },
     "done": true
   },
@@ -9341,6 +9353,12 @@
   "securitycraft:recipes/securitycraft/reinforced_mossy_stone_brick_wall": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:36:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2025-01-20 17:46:41 +0000"
     },
     "done": true
   },
