@@ -3991,6 +3991,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-01-20 18:50:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
@@ -4042,6 +4048,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-01-20 18:50:33 +0000"
     },
     "done": true
   },
@@ -8657,6 +8669,7 @@
     "criteria": {
       "minecraft:forest": "2025-01-20 17:54:52 +0000",
       "minecraft:river": "2025-01-20 18:33:17 +0000",
+      "minecraft:savanna": "2025-01-20 18:44:27 +0000",
       "minecraft:plains": "2025-01-20 17:50:59 +0000"
     },
     "done": false
@@ -9143,6 +9156,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2025-01-20 18:45:50 +0000",
       "rotten_flesh": "2025-01-20 18:27:55 +0000",
       "salmon": "2025-01-20 18:40:39 +0000"
     },
