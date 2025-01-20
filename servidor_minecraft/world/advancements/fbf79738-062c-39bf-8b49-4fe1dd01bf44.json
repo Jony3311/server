@@ -2525,6 +2525,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-20 18:27:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
@@ -3121,6 +3127,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-01-20 18:29:34 +0000",
       "minecraft:zombie": "2025-01-20 18:13:52 +0000"
     },
     "done": false
@@ -4430,6 +4437,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/birch_post": {
+    "criteria": {
+      "has_item": "2025-01-20 18:24:16 +0000"
     },
     "done": true
   },
@@ -7037,6 +7050,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-01-20 18:23:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
@@ -8630,6 +8649,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-01-20 17:54:52 +0000",
+      "minecraft:river": "2025-01-20 18:33:17 +0000",
       "minecraft:plains": "2025-01-20 17:50:59 +0000"
     },
     "done": false
@@ -9113,6 +9133,12 @@
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "rotten_flesh": "2025-01-20 18:27:55 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/securitycraft/reinforced_light_gray_stained_glass": {
     "criteria": {
