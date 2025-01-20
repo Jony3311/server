@@ -7189,6 +7189,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-01-20 18:57:53 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_blackstone_wall": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
@@ -8668,6 +8674,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-01-20 17:54:52 +0000",
+      "minecraft:desert": "2025-01-20 18:59:28 +0000",
       "minecraft:river": "2025-01-20 18:33:17 +0000",
       "minecraft:savanna": "2025-01-20 18:44:27 +0000",
       "minecraft:plains": "2025-01-20 17:50:59 +0000"
@@ -9156,6 +9163,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-01-20 18:59:53 +0000",
       "bread": "2025-01-20 18:45:50 +0000",
       "rotten_flesh": "2025-01-20 18:27:55 +0000",
       "salmon": "2025-01-20 18:40:39 +0000"
