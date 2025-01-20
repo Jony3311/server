@@ -1457,6 +1457,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-01-20 18:11:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/snow_smithing_gold": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:09:26 +0000"
@@ -1616,6 +1622,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-20 18:12:17 +0000"
     },
     "done": true
   },

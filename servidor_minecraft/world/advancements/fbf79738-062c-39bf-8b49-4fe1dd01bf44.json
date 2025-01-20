@@ -5,15 +5,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_cracked_nether_bricks": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/travelersbackpack/bat_smithing_diamond": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cracked_nether_bricks": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -251,15 +251,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_terracotta": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_spruce_wood": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -461,15 +461,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_leggings": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -629,15 +629,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/keycard_lock": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "valhelsia_structures:recipes/valhelsia_structures_main/gray_glazed_jar": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lock": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -695,15 +695,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_light_gray_stained_glass_pane_from_glass": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_yellow_stained_glass_pane_from_glass": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_light_gray_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -1097,15 +1097,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/ims": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -1409,15 +1409,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/jukebox": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/travelersbackpack/melon_smithing_diamond": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -1454,6 +1454,12 @@
   "securitycraft:recipes/securitycraft/reinforced_cobblestone_wall_from_reinforced_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-01-20 18:11:53 +0000"
     },
     "done": true
   },
@@ -1595,15 +1601,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_blackstone_slab": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "valhelsia_structures:recipes/valhelsia_structures_main/metal_framed_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_blackstone_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -1907,15 +1913,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -2093,15 +2099,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald_from_smelting": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/travelersbackpack/cactus_smithing_iron": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_smelting": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -2165,12 +2171,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_helmet": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/floor_trap": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
@@ -2180,6 +2180,12 @@
   "securitycraft:recipes/securitycraft/keycard_lv3_reset": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -2213,15 +2219,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_prismarine_brick_slab": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/travelersbackpack/snow_smithing_netherite": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_prismarine_brick_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -2315,15 +2321,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_andesite_stairs": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_polished_blackstone_from_reinforced_blackstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_andesite_stairs": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -2435,15 +2441,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/crystal_quartz_stairs": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -2813,12 +2819,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_pink_carpet": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
@@ -2828,6 +2828,12 @@
   "minecraft:recipes/travelersbackpack/ghast_smithing_diamond": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_pink_carpet": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -2951,15 +2957,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/travelersbackpack/iron_smithing_diamond": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -3365,15 +3371,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -3713,15 +3719,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_sandstone_wall_from_red_sandstone_stonecutting": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_sandstone_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -3791,15 +3797,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/travelersbackpack/iron_golem_smithing_iron": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/travelersbackpack/villager_smithing_diamond": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/iron_golem_smithing_iron": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -3857,15 +3863,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/magenta_bed": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/travelersbackpack/black_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -4091,15 +4097,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -4229,15 +4235,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond_from_smelting": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/travelersbackpack/bee_smithing_gold": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -4373,15 +4379,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_polished_blackstone_brick_wall": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -4457,15 +4463,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_from_blasting": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_polished_blackstone_wall_from_reinforced_polished_blackstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -4595,15 +4601,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/keycard_lv4": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/sc_manual": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv4": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -4697,15 +4703,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_quartz_stairs_from_reinforced_quartz_block_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -4967,6 +4973,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/hay_smithing_iron": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:59 +0000"
@@ -4976,12 +4988,6 @@
   "securitycraft:recipes/securitycraft/reinforced_pink_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/travelersbackpack/hay_smithing_iron": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:58 +0000"
     },
     "done": true
   },
@@ -5291,15 +5297,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_slab": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -5621,6 +5627,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_purple_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:59 +0000"
@@ -5630,12 +5642,6 @@
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/reinforced_purple_stained_glass_pane_from_glass": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:58 +0000"
     },
     "done": true
   },
@@ -5927,15 +5933,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lime_dye_from_smelting": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_birch_fence": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -6101,15 +6107,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/end_stone_mine": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_dark_oak_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/end_stone_mine": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -6485,15 +6491,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -6719,6 +6725,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-01-20 18:09:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
@@ -6857,19 +6869,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/travelersbackpack/lapis_smithing_gold": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone": {
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
@@ -6878,6 +6884,12 @@
   "minecraft:recipes/travelersbackpack/coal_smithing_iron": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -6959,19 +6971,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_red_sandstone_slab": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_helmet": {
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
@@ -6980,6 +6986,12 @@
   "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -7211,15 +7223,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -7253,15 +7265,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/travelersbackpack/wolf_smithing_iron": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "valhelsia_structures:recipes/valhelsia_structures_main/bone_pile_block": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/wolf_smithing_iron": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -7277,19 +7289,13 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_blue_terracotta": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_polished_andesite_slab_from_reinforced_polished_andesite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite": {
+  "securitycraft:recipes/securitycraft/reinforced_blue_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
@@ -7301,7 +7307,19 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_glazed_terracotta": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_brick_stairs": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
     },
@@ -7310,12 +7328,6 @@
   "minecraft:recipes/building_blocks/purpur_block": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/reinforced_brick_stairs": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:58 +0000"
     },
     "done": true
   },
@@ -7523,15 +7535,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/travelersbackpack/cake_smithing_iron": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -7601,15 +7613,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purple_stained_glass": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_mossy_cobblestone_wall": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -7721,12 +7733,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/electrified_iron_fence": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
@@ -7736,6 +7742,12 @@
   "minecraft:recipes/travelersbackpack/end_smithing_netherite": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -7763,15 +7775,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_chiseled_sandstone_from_reinforced_sandstone_stonecutting": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_nether_brick_wall_from_reinforced_nether_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_chiseled_sandstone_from_reinforced_sandstone_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -7799,15 +7811,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -7961,21 +7973,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/iron_trapdoor": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_chiseled_stone_bricks": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_stone_brick_stairs_from_reinforced_stone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-01-20 18:09:43 +0000"
     },
     "done": true
   },
@@ -8063,12 +8081,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_banner": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
@@ -8078,6 +8090,12 @@
   "securitycraft:recipes/securitycraft/reinforced_black_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -8315,15 +8333,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_stone_brick_wall_from_reinforced_stone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -8339,6 +8357,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:59 +0000"
@@ -8348,12 +8372,6 @@
   "minecraft:recipes/decorations/light_blue_carpet": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_banner": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:58 +0000"
     },
     "done": true
   },
@@ -8676,15 +8694,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_carpet": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/travelersbackpack/ghast_smithing_iron": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -8724,12 +8742,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond_from_blasting": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_granite_stairs_from_reinforced_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
@@ -8739,6 +8751,12 @@
   "securitycraft:recipes/securitycraft/reinforced_polished_blackstone_bricks_from_reinforced_blackstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -8892,15 +8910,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -9372,15 +9390,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_polished_blackstone_bricks": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/secret_dark_oak_sign_item": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_polished_blackstone_bricks": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -9474,15 +9492,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_wool": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/bouncing_betty": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -9684,6 +9702,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-20 18:13:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
@@ -9756,15 +9780,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_yellow_terracotta": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/yellow_lens": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_yellow_terracotta": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
@@ -9948,15 +9972,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_the_recipe": "2025-01-20 17:50:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_granite_slab": {
     "criteria": {
       "has_the_recipe": "2025-01-20 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 17:50:59 +0000"
     },
     "done": true
   },
