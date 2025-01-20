@@ -3137,6 +3137,7 @@
       "minecraft:skeleton": "2025-01-20 02:25:55 +0000",
       "minecraft:spider": "2025-01-20 02:10:04 +0000",
       "minecraft:creeper": "2025-01-20 02:22:14 +0000",
+      "minecraft:witch": "2025-01-20 17:56:28 +0000",
       "minecraft:husk": "2025-01-20 17:41:36 +0000",
       "minecraft:enderman": "2025-01-20 02:21:08 +0000",
       "minecraft:zombie": "2025-01-20 02:21:43 +0000"
@@ -7193,6 +7194,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-01-20 17:49:16 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_blackstone_wall": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:00:28 +0000"
@@ -8684,6 +8691,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-01-20 01:07:37 +0000",
+      "minecraft:desert_hills": "2025-01-20 17:52:35 +0000",
       "minecraft:desert": "2025-01-20 02:37:49 +0000",
       "minecraft:birch_forest": "2025-01-20 02:29:42 +0000",
       "minecraft:river": "2025-01-20 01:05:29 +0000",

@@ -6725,6 +6725,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-01-20 17:56:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:09:26 +0000"
