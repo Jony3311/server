@@ -2555,6 +2555,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-01-20 18:37:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:09:26 +0000"
@@ -3962,6 +3968,12 @@
   "valhelsia_structures:recipes/valhelsia_structures_main/bone_pile": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:09:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-01-20 18:42:58 +0000"
     },
     "done": true
   },
@@ -9068,6 +9080,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-01-20 18:41:58 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_smooth_crystal_quartz_slab_from_reinforced_smooth_crystal_quartz_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:09:27 +0000"
@@ -9091,6 +9109,12 @@
       "has_the_recipe": "2025-01-20 01:09:27 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "carrot": "2025-01-20 18:41:42 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/securitycraft/reinforced_light_gray_stained_glass": {
     "criteria": {
