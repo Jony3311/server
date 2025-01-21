@@ -4553,6 +4553,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/birch_post": {
+    "criteria": {
+      "has_item": "2025-01-21 21:45:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:36:00 +0000"
@@ -9315,6 +9321,12 @@
   "securitycraft:recipes/securitycraft/reinforced_crystal_quartz_stairs_from_reinforced_crystal_quartz_block_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:36:00 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-01-21 21:44:00 +0000"
     },
     "done": true
   },
