@@ -719,6 +719,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-01-21 18:46:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:36:00 +0000"
@@ -1186,6 +1192,14 @@
       "has_the_recipe": "2025-01-20 01:36:00 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-01-21 18:41:31 +0000",
+      "minecraft:nether_wastes": "2025-01-21 18:43:25 +0000",
+      "minecraft:warped_forest": "2025-01-21 18:45:14 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/securitycraft/block_pocket_wall": {
     "criteria": {
@@ -1850,6 +1864,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:36:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-21 18:41:30 +0000"
     },
     "done": true
   },
@@ -6650,6 +6670,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-21 18:41:30 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/bestiary": {
     "criteria": {
       "bestiary": "2025-01-20 19:09:50 +0000"
@@ -7416,6 +7442,12 @@
   "minecraft:recipes/travelersbackpack/standard_smithing_diamond": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:36:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-21 18:39:26 +0000"
     },
     "done": true
   },

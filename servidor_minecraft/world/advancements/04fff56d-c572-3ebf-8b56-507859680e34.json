@@ -8595,6 +8595,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-01-21 18:40:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/pumpkin_smithing_iron": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:09:26 +0000"
@@ -9495,6 +9501,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2025-01-21 18:40:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_warped_stairs": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:09:26 +0000"
@@ -9516,6 +9528,12 @@
   "securitycraft:recipes/securitycraft/reinforced_polished_granite_stairs": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:09:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-01-21 18:40:05 +0000"
     },
     "done": true
   },
