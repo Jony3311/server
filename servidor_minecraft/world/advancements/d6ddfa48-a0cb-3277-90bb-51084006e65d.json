@@ -3005,6 +3005,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-21 17:14:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_the_recipe": "2025-01-21 16:12:12 +0000"
@@ -3110,7 +3116,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-21 16:41:55 +0000",
-      "minecraft:spider": "2025-01-21 16:18:43 +0000"
+      "minecraft:spider": "2025-01-21 16:18:43 +0000",
+      "minecraft:husk": "2025-01-21 17:15:17 +0000"
     },
     "done": false
   },
@@ -8672,6 +8679,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_the_recipe": "2025-01-21 16:12:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2025-01-21 17:14:49 +0000"
     },
     "done": true
   },
