@@ -8511,6 +8511,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-01-21 18:29:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/pumpkin_smithing_iron": {
     "criteria": {
       "has_the_recipe": "2025-01-21 16:12:11 +0000"
@@ -8688,6 +8694,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2025-01-21 17:33:32 +0000",
+      "minecraft:forest": "2025-01-21 18:35:04 +0000",
       "minecraft:desert_hills": "2025-01-21 16:31:37 +0000",
       "minecraft:desert": "2025-01-21 16:31:29 +0000",
       "minecraft:jungle": "2025-01-21 17:33:35 +0000",
@@ -9193,6 +9200,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-01-21 18:32:30 +0000",
       "bread": "2025-01-21 17:27:27 +0000",
       "melon_slice": "2025-01-21 17:44:57 +0000",
       "carrot": "2025-01-21 16:34:15 +0000"
@@ -9433,6 +9441,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-01-21 18:29:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_the_recipe": "2025-01-21 16:12:11 +0000"
@@ -9634,6 +9648,12 @@
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_the_recipe": "2025-01-21 16:12:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-01-21 18:30:05 +0000"
     },
     "done": true
   },
