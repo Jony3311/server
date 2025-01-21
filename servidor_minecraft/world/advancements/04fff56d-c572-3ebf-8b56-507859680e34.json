@@ -8778,6 +8778,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-01-21 19:18:11 +0000",
       "minecraft:forest": "2025-01-20 18:30:09 +0000",
       "minecraft:desert_hills": "2025-01-20 21:06:31 +0000",
       "minecraft:desert": "2025-01-20 20:54:21 +0000",
