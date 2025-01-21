@@ -875,6 +875,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-21 18:19:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_crystal_quartz_slab": {
     "criteria": {
       "has_the_recipe": "2025-01-21 16:12:12 +0000"
@@ -2501,6 +2507,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-21 18:26:09 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_polished_andesite_slab_from_reinforced_andesite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-21 16:12:11 +0000"
@@ -3135,7 +3147,9 @@
     "criteria": {
       "minecraft:skeleton": "2025-01-21 16:41:55 +0000",
       "minecraft:spider": "2025-01-21 16:18:43 +0000",
-      "minecraft:husk": "2025-01-21 17:15:17 +0000"
+      "minecraft:creeper": "2025-01-21 18:27:56 +0000",
+      "minecraft:husk": "2025-01-21 17:15:17 +0000",
+      "minecraft:zombie": "2025-01-21 18:15:41 +0000"
     },
     "done": false
   },
@@ -6544,6 +6558,12 @@
   "securitycraft:recipes/securitycraft/reinforced_red_sandstone_slab_from_reinforced_red_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-21 16:12:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2025-01-21 18:24:20 +0000"
     },
     "done": true
   },

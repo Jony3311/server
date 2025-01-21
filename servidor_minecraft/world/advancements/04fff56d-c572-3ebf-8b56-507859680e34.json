@@ -2519,6 +2519,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-21 18:26:06 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_polished_andesite_slab_from_reinforced_andesite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:09:27 +0000"
