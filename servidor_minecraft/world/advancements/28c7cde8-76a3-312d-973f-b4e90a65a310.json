@@ -6903,6 +6903,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:mooshroom": "2025-01-21 16:31:09 +0000",
       "minecraft:cow": "2025-01-20 18:31:51 +0000"
     },
     "done": false
@@ -9233,6 +9234,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-21 16:31:21 +0000",
       "cooked_beef": "2025-01-20 21:54:04 +0000",
       "baked_potato": "2025-01-20 20:18:07 +0000",
       "bread": "2025-01-20 19:06:38 +0000",

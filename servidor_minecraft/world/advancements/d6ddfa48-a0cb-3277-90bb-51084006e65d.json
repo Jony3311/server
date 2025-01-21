@@ -8605,8 +8605,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:desert_hills": "2025-01-21 16:31:37 +0000",
+      "minecraft:desert": "2025-01-21 16:31:29 +0000",
       "minecraft:river": "2025-01-21 16:23:43 +0000",
       "minecraft:wooded_hills": "2025-01-21 16:19:55 +0000",
+      "minecraft:savanna": "2025-01-21 16:30:07 +0000",
       "minecraft:plains": "2025-01-21 16:12:12 +0000"
     },
     "done": false
@@ -9090,6 +9093,12 @@
       "has_the_recipe": "2025-01-21 16:12:11 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "carrot": "2025-01-21 16:34:15 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/securitycraft/reinforced_light_gray_stained_glass": {
     "criteria": {
