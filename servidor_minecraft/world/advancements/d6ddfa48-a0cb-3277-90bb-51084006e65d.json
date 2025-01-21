@@ -9174,6 +9174,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-01-21 17:27:27 +0000",
+      "melon_slice": "2025-01-21 17:44:57 +0000",
       "carrot": "2025-01-21 16:34:15 +0000"
     },
     "done": false
