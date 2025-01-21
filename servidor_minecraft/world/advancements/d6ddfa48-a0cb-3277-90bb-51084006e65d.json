@@ -3149,7 +3149,8 @@
       "minecraft:spider": "2025-01-21 16:18:43 +0000",
       "minecraft:creeper": "2025-01-21 18:27:56 +0000",
       "minecraft:husk": "2025-01-21 17:15:17 +0000",
-      "minecraft:zombie": "2025-01-21 18:15:41 +0000"
+      "minecraft:zombie": "2025-01-21 18:15:41 +0000",
+      "minecraft:drowned": "2025-01-21 18:55:36 +0000"
     },
     "done": false
   },
@@ -8694,12 +8695,18 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2025-01-21 17:33:32 +0000",
+      "minecraft:cold_ocean": "2025-01-21 18:57:15 +0000",
       "minecraft:forest": "2025-01-21 18:35:04 +0000",
+      "minecraft:taiga": "2025-01-21 19:00:36 +0000",
       "minecraft:desert_hills": "2025-01-21 16:31:37 +0000",
       "minecraft:desert": "2025-01-21 16:31:29 +0000",
+      "minecraft:deep_frozen_ocean": "2025-01-21 18:57:34 +0000",
       "minecraft:jungle": "2025-01-21 17:33:35 +0000",
+      "minecraft:bamboo_jungle": "2025-01-21 18:59:08 +0000",
       "minecraft:savanna_plateau": "2025-01-21 17:35:28 +0000",
+      "minecraft:beach": "2025-01-21 18:50:19 +0000",
       "minecraft:river": "2025-01-21 16:23:43 +0000",
+      "minecraft:bamboo_jungle_hills": "2025-01-21 18:58:55 +0000",
       "minecraft:wooded_hills": "2025-01-21 16:19:55 +0000",
       "minecraft:savanna": "2025-01-21 16:30:07 +0000",
       "minecraft:plains": "2025-01-21 16:12:12 +0000"
@@ -8829,6 +8836,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_the_recipe": "2025-01-21 16:12:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-21 19:03:46 +0000"
     },
     "done": true
   },
@@ -9202,6 +9215,7 @@
     "criteria": {
       "baked_potato": "2025-01-21 18:32:30 +0000",
       "bread": "2025-01-21 17:27:27 +0000",
+      "golden_apple": "2025-01-21 18:56:39 +0000",
       "melon_slice": "2025-01-21 17:44:57 +0000",
       "carrot": "2025-01-21 16:34:15 +0000"
     },
