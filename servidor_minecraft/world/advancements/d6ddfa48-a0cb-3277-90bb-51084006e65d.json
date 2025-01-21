@@ -1625,6 +1625,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-21 16:27:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_the_recipe": "2025-01-21 16:12:12 +0000"
@@ -8599,6 +8605,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2025-01-21 16:23:43 +0000",
       "minecraft:wooded_hills": "2025-01-21 16:19:55 +0000",
       "minecraft:plains": "2025-01-21 16:12:12 +0000"
     },
@@ -9735,6 +9742,12 @@
   "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
     "criteria": {
       "has_the_recipe": "2025-01-21 16:12:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-21 16:24:32 +0000"
     },
     "done": true
   },
