@@ -2555,6 +2555,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "sword": "2025-01-21 22:02:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_sandstone_wall": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:09:27 +0000"
