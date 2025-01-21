@@ -665,6 +665,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "desert": "2025-01-21 21:31:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/gold_smithing_iron": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:09:27 +0000"

@@ -1296,6 +1296,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed": "2025-01-21 21:37:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_polished_andesite_stairs_from_reinforced_polished_andesite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:59:54 +0000"
