@@ -3103,6 +3103,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-01-21 16:41:55 +0000",
       "minecraft:spider": "2025-01-21 16:18:43 +0000"
     },
     "done": false
@@ -3962,6 +3963,12 @@
   "valhelsia_structures:recipes/valhelsia_structures_main/bone_pile": {
     "criteria": {
       "has_the_recipe": "2025-01-21 16:12:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-01-21 16:45:30 +0000"
     },
     "done": true
   },
@@ -7016,6 +7023,12 @@
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2025-01-21 16:12:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-01-21 16:38:38 +0000"
     },
     "done": true
   },
