@@ -2483,6 +2483,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-21 20:41:50 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/crystal_quartz_stairs": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:09:26 +0000"
