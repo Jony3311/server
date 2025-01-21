@@ -3449,3 +3449,72 @@ java.lang.NullPointerException: null
 [21Jan2025 22:18:50.482] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: phantyUwU has reached level 2 in smithing! [minecraft:overworld|x:511.37|y:51.00|z:-369.13]
 [21Jan2025 22:18:57.001] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [CREADOR] [PeneTactico] jony33D ② has reached level 10 in smithing! [minecraft:overworld|x:1291.99|y:65.00|z:992.41]
 [21Jan2025 22:19:16.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16546ms or 330 ticks behind
+[21Jan2025 22:19:47.116] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for [Victor y Joel] [Miembro] alexAJP ③ with unique ID 2ccc2b80-2d35-4dc7-8c4f-7d466a13db7f
+[21Jan2025 22:19:47.117] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 232 Y: 41 Z: -1261
+[21Jan2025 22:19:47.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Victor y Joel] [Miembro] alexAJP ③ was blown up by Creeper
+[21Jan2025 22:19:47.263] [Server thread/INFO] [tombstone/]: The player alexAJP has successfully been saved
+[21Jan2025 22:19:51.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <[CREADOR] [PeneTactico] AquilesXD2 ②> JAJAAAJAJ
+[21Jan2025 22:20:01.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 29844ms or 596 ticks behind
+[21Jan2025 22:20:18.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] jony33D ②: Set own game mode to Spectator Mode]
+[21Jan2025 22:20:31.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14614ms or 292 ticks behind
+[21Jan2025 22:20:33.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] jony33D ②: Set own game mode to Survival Mode]
+[21Jan2025 22:21:01.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15247ms or 304 ticks behind
+[21Jan2025 22:21:08.269] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 33696f20-5329-4e8a-ade5-427d1133f17c. Existing minecraft:armor_stand#44121, new: minecraft:armor_stand#44121
+[21Jan2025 22:21:24.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] jony33D ②: Set own game mode to Spectator Mode]
+[21Jan2025 22:21:33.760] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17369ms or 347 ticks behind
+[21Jan2025 22:21:39.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] jony33D ②: Teleported [CREADOR] [PeneTactico] jony33D ② to [CREADOR] [PeneTactico] AquilesXD2 ②]
+[21Jan2025 22:22:04.806] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16064ms or 321 ticks behind
+[21Jan2025 22:22:06.342] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <[PeneTactico] [Miembro] Abysstr76 ②> afk
+[21Jan2025 22:22:34.411] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14620ms or 292 ticks behind
+[21Jan2025 22:22:35.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] jony33D ②: Set own game mode to Creative Mode]
+[21Jan2025 22:23:04.877] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15486ms or 309 ticks behind
+[21Jan2025 22:23:07.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] jony33D ②: Set own game mode to Spectator Mode]
+[21Jan2025 22:23:16.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] jony33D ②: Set own game mode to Creative Mode]
+[21Jan2025 22:23:27.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] jony33D ②: Set own game mode to Spectator Mode]
+[21Jan2025 22:23:32.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: phantyUwU has made the advancement [Eye of The Storm]
+[21Jan2025 22:23:37.512] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17670ms or 353 ticks behind
+[21Jan2025 22:23:49.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] jony33D ②: Set own game mode to Creative Mode]
+[21Jan2025 22:23:50.585] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: phantyUwU has reached level 20 in archery! [minecraft:overworld|x:877.39|y:67.00|z:-152.19]
+[21Jan2025 22:24:08.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16064ms or 321 ticks behind
+[21Jan2025 22:24:14.431] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [Victor y Joel] [Miembro] Bonra7Nt ③ has reached level 34 in combat! [minecraft:overworld|x:123.28|y:32.00|z:-1258.82]
+[21Jan2025 22:24:27.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] jony33D ②: Set own game mode to Spectator Mode]
+[21Jan2025 22:24:36.280] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: AquilesXD2 lost connection: Timed out
+[21Jan2025 22:24:36.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CREADOR] [PeneTactico] AquilesXD2 ② left the game
+[21Jan2025 22:24:36.396] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[21Jan2025 22:24:37.838] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14297ms or 285 ticks behind
+[21Jan2025 22:24:44.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: phantyUwU has made the advancement [The Desert Swimmers]
+[21Jan2025 22:25:03.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10636ms or 212 ticks behind
+[21Jan2025 22:25:21.384] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [Victor y Joel] [Miembro] Bonra7Nt ③ has reached level 37 in endurance! [minecraft:overworld|x:81.78|y:32.00|z:-1255.67]
+[21Jan2025 22:25:28.298] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [PeneTactico] [Miembro] Abysstr76 ② has reached level 32 in combat! [minecraft:overworld|x:633.40|y:32.00|z:1218.96]
+[21Jan2025 22:25:28.601] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10210ms or 204 ticks behind
+[21Jan2025 22:25:40.860] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [Victor y Joel] [Miembro] Bonra7Nt ③ has reached level 21 in mining! [minecraft:overworld|x:88.98|y:32.00|z:-1263.39]
+[21Jan2025 22:25:48.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] jony33D ②: Applied effect Invisibility to [CREADOR] [PeneTactico] jony33D ②]
+[21Jan2025 22:25:54.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10555ms or 211 ticks behind
+[21Jan2025 22:25:59.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <[CREADOR] [PeneTactico] jony33D ②> esperen q me voy afk un momento
+[21Jan2025 22:26:01.355] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for phantyUwU with unique ID dde89bc4-6c49-4a44-96cd-8f138e2e0e5d
+[21Jan2025 22:26:01.356] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 969 Y: 71 Z: -182
+[21Jan2025 22:26:01.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: phantyUwU was blown up by Death Worm
+[21Jan2025 22:26:01.499] [Server thread/INFO] [tombstone/]: The player phantyUwU has successfully been saved
+[21Jan2025 22:26:20.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11557ms or 231 ticks behind
+[21Jan2025 22:26:31.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] jony33D ②: Set own game mode to Creative Mode]
+[21Jan2025 22:26:45.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10081ms or 201 ticks behind
+[21Jan2025 22:26:47.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] jony33D ②: Set own game mode to Spectator Mode]
+[21Jan2025 22:26:56.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] jony33D ②: Set own game mode to Creative Mode]
+[21Jan2025 22:27:03.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] jony33D ②: Set own game mode to Spectator Mode]
+[21Jan2025 22:27:09.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] jony33D ②: Set own game mode to Creative Mode]
+[21Jan2025 22:27:11.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10824ms or 216 ticks behind
+[21Jan2025 22:27:19.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] jony33D ②: Set own game mode to Spectator Mode]
+[21Jan2025 22:27:38.321] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11779ms or 235 ticks behind
+[21Jan2025 22:28:03.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10500ms or 210 ticks behind
+[21Jan2025 22:28:15.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] jony33D ②: Set own game mode to Creative Mode]
+[21Jan2025 22:28:19.956] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [Victor y Joel] [Miembro] Bonra7Nt ③ has reached level 35 in combat! [minecraft:overworld|x:142.37|y:32.00|z:-1214.91]
+[21Jan2025 22:28:23.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Victor y Joel] [Miembro] alexAJP ③ has made the advancement [Magic Writing]
+[21Jan2025 22:28:26.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] jony33D ②: Set own game mode to Spectator Mode]
+[21Jan2025 22:28:29.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10918ms or 218 ticks behind
+[21Jan2025 22:28:57.525] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12834ms or 256 ticks behind
+[21Jan2025 22:29:22.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9572ms or 191 ticks behind
+[21Jan2025 22:29:36.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: phantyUwU has made the advancement [Rigged from the Start]
+[21Jan2025 22:29:42.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Victor y Joel] [Miembro] Bonra7Nt ③ blew up
+[21Jan2025 22:29:42.181] [Server thread/INFO] [tombstone/]: The player Bonra7Nt has successfully been saved
+[21Jan2025 22:29:48.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11326ms or 226 ticks behind
+[21Jan2025 22:30:01.049] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: phantyUwU has reached level 21 in archery! [minecraft:overworld|x:1006.19|y:67.00|z:-141.11]
