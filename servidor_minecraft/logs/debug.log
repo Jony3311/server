@@ -18642,3 +18642,72 @@ java.lang.NullPointerException: null
 [21Jan2025 22:50:37.644] [Server thread/INFO] [tombstone/]: The player Bonra7Nt has successfully been saved
 [21Jan2025 22:50:44.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] jony33D ②: Teleported [Victor y Joel] [Miembro] Bonra7Nt ③ to [CREADOR] [PeneTactico] jony33D ②]
 [21Jan2025 22:50:52.859] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9868ms or 197 ticks behind
+[21Jan2025 22:51:29.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21189ms or 423 ticks behind
+[21Jan2025 22:51:36.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] AquilesXD2 ②: Removed every effect from [CREADOR] [PeneTactico] AquilesXD2 ②]
+[21Jan2025 22:51:44.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Victor y Joel] [Miembro] Bonra7Nt ③ blew up
+[21Jan2025 22:51:44.100] [Server thread/DEBUG] [tombstone/]: A new grave of the player Bonra7Nt was created at position [x:92, y:14, z:-1271, dim:minecraft:overworld]
+[21Jan2025 22:51:44.125] [Server thread/INFO] [tombstone/]: The player Bonra7Nt has successfully been saved
+[21Jan2025 22:51:45.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: phantyUwU has made the advancement [My Name is Nobody]
+[21Jan2025 22:51:50.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <[CREADOR] [PeneTactico] AquilesXD2 ②> q paso
+[21Jan2025 22:51:53.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9764ms or 195 ticks behind
+[21Jan2025 22:52:15.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] jony33D ②: Teleported [Victor y Joel] [Miembro] Bonra7Nt ③ to [CREADOR] [PeneTactico] jony33D ②]
+[21Jan2025 22:52:21.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12379ms or 247 ticks behind
+[21Jan2025 22:52:45.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9150ms or 183 ticks behind
+[21Jan2025 22:52:51.995] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Victor y Joel] [Miembro] Bonra7Nt ③ blew up
+[21Jan2025 22:52:51.996] [Server thread/DEBUG] [tombstone/]: A new grave of the player Bonra7Nt was created at position [x:94, y:14, z:-1277, dim:minecraft:overworld]
+[21Jan2025 22:52:52.010] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for [Victor y Joel] [Miembro] alexAJP ③ with unique ID 0ff4bdef-f8ec-4876-a684-b9087d011da9
+[21Jan2025 22:52:52.011] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 91 Y: 15 Z: -1276
+[21Jan2025 22:52:52.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Victor y Joel] [Miembro] alexAJP ③ blew up
+[21Jan2025 22:52:52.029] [Server thread/DEBUG] [tombstone/]: A new grave of the player alexAJP was created at position [x:90, y:14, z:-1277, dim:minecraft:overworld]
+[21Jan2025 22:52:52.216] [Server thread/INFO] [tombstone/]: The player Bonra7Nt has successfully been saved
+[21Jan2025 22:52:52.216] [Server thread/INFO] [tombstone/]: The player alexAJP has successfully been saved
+[21Jan2025 22:53:09.182] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8941ms or 178 ticks behind
+[21Jan2025 22:53:21.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PeneTactico] [Miembro] Abysstr76 ② has made the advancement [Would you Like to Know More?]
+[21Jan2025 22:53:28.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] jony33D ②: Teleported [Victor y Joel] [Miembro] Bonra7Nt ③ to [CREADOR] [PeneTactico] jony33D ②]
+[21Jan2025 22:53:33.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9676ms or 193 ticks behind
+[21Jan2025 22:53:58.735] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9944ms or 198 ticks behind
+[21Jan2025 22:54:22.796] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9105ms or 182 ticks behind
+[21Jan2025 22:54:43.094] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [PeneTactico] [Miembro] Abysstr76 ② has reached level 25 in agility! [minecraft:overworld|x:798.50|y:71.00|z:1022.47]
+[21Jan2025 22:54:50.386] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12594ms or 251 ticks behind
+[21Jan2025 22:55:14.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8865ms or 177 ticks behind
+[21Jan2025 22:55:34.374] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for [Victor y Joel] [Miembro] alexAJP ③ with unique ID b0307ee8-a705-4093-87d7-d67163cd2308
+[21Jan2025 22:55:34.375] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 90 Y: 14 Z: -1281
+[21Jan2025 22:55:34.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Victor y Joel] [Miembro] alexAJP ③ was slain by [CREADOR] [PeneTactico] AquilesXD2 ②
+[21Jan2025 22:55:34.399] [Server thread/DEBUG] [tombstone/]: A new grave of the player alexAJP was created at position [x:89, y:14, z:-1283, dim:minecraft:overworld]
+[21Jan2025 22:55:34.517] [Server thread/INFO] [tombstone/]: The player alexAJP has successfully been saved
+[21Jan2025 22:55:42.729] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13537ms or 270 ticks behind
+[21Jan2025 22:56:07.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9428ms or 188 ticks behind
+[21Jan2025 22:56:29.308] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7217ms or 144 ticks behind
+[21Jan2025 22:56:53.663] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9372ms or 187 ticks behind
+[21Jan2025 22:57:16.346] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7705ms or 154 ticks behind
+[21Jan2025 22:57:39.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7680ms or 153 ticks behind
+[21Jan2025 22:58:01.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7282ms or 145 ticks behind
+[21Jan2025 22:58:21.147] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] AquilesXD2 ②: Set own game mode to Survival Mode]
+[21Jan2025 22:58:25.473] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[21Jan2025 22:58:25.485] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[21Jan2025 22:58:25.876] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9635ms or 192 ticks behind
+[21Jan2025 22:58:29.595] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [CREADOR] [PeneTactico] AquilesXD2 ② has reached level 37 in endurance! [minecraft:overworld|x:83.10|y:14.80|z:-1246.84]
+[21Jan2025 22:58:50.623] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9782ms or 195 ticks behind
+[21Jan2025 22:58:51.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PeneTactico] [Miembro] Abysstr76 ② has completed the challenge [Flowers of the Savanna]
+[21Jan2025 22:59:13.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8217ms or 164 ticks behind
+[21Jan2025 22:59:20.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] jony33D ②: Teleported [CREADOR] [PeneTactico] jony33D ② to 1287.96, 64.81, 986.97]
+[21Jan2025 22:59:25.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CREADOR] [PeneTactico] AquilesXD2 ② was slain by [Victor y Joel] [Miembro] Bonra7Nt ③
+[21Jan2025 22:59:25.512] [Server thread/DEBUG] [tombstone/]: A new grave of the player AquilesXD2 was created at position [x:83, y:14, z:-1240, dim:minecraft:overworld]
+[21Jan2025 22:59:25.515] [Server thread/INFO] [tombstone/]: The player AquilesXD2 has successfully been saved
+[21Jan2025 22:59:26.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] jony33D ②: Set own game mode to Survival Mode]
+[21Jan2025 22:59:31.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Victor y Joel] [Miembro] alexAJP ③ has made the advancement [Funeral Theft]
+[21Jan2025 22:59:37.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] AquilesXD2 ②: Teleported [CREADOR] [PeneTactico] AquilesXD2 ② to [Victor y Joel] [Miembro] alexAJP ③]
+[21Jan2025 22:59:44.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15945ms or 318 ticks behind
+[21Jan2025 22:59:45.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] jony33D ②: Removed every effect from [CREADOR] [PeneTactico] jony33D ②]
+[21Jan2025 23:00:07.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PeneTactico] [Miembro] Abysstr76 ② has made the advancement [Who You Gonna Call?]
+[21Jan2025 23:00:16.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16504ms or 330 ticks behind
+[21Jan2025 23:00:17.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] jony33D ②: Set own game mode to Creative Mode]
+[21Jan2025 23:00:27.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] jony33D ②: Teleported [CREADOR] [PeneTactico] jony33D ② to [Victor y Joel] [Miembro] Bonra7Nt ③]
+[21Jan2025 23:00:45.875] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14684ms or 293 ticks behind
+[21Jan2025 23:01:05.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CREADOR] [PeneTactico] AquilesXD2 ② was slain by Void Worm
+[21Jan2025 23:01:05.222] [Server thread/DEBUG] [tombstone/]: A new grave of the player AquilesXD2 was created at position [x:83, y:14, z:-1242, dim:minecraft:overworld]
+[21Jan2025 23:01:05.260] [Server thread/INFO] [tombstone/]: The player AquilesXD2 has successfully been saved
+[21Jan2025 23:01:13.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] AquilesXD2 ②: Teleported [CREADOR] [PeneTactico] AquilesXD2 ② to [Victor y Joel] [Miembro] alexAJP ③]
+[21Jan2025 23:01:13.912] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13071ms or 261 ticks behind
+[21Jan2025 23:01:22.010] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [PeneTactico] [Miembro] Abysstr76 ② has reached level 30 in endurance! [minecraft:overworld|x:825.92|y:70.56|z:1080.82]
+[21Jan2025 23:01:27.775] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: phantyUwU has reached level 17 in mining! [minecraft:overworld|x:1190.89|y:47.00|z:-378.61]
