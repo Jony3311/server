@@ -12060,3 +12060,567 @@ java.lang.NullPointerException: null
 [21Jan2025 16:55:34.163] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3586ms or 71 ticks behind
 [21Jan2025 16:55:44.963] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: Momoliano has reached level 2 in mining! [minecraft:overworld|x:-89.98|y:60.00|z:351.19]
 [21Jan2025 16:55:53.082] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3955ms or 79 ticks behind
+[21Jan2025 16:56:06.114] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: AquilesXD2 lost connection: Timed out
+[21Jan2025 16:56:06.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CREADOR] [PeneTactico] AquilesXD2 ② left the game
+[21Jan2025 16:56:06.325] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[21Jan2025 16:56:21.127] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13050ms or 261 ticks behind
+[21Jan2025 16:56:38.556] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2429ms or 48 ticks behind
+[21Jan2025 16:56:47.386] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Starting new modded network connection. Found 47 messages to dispatch.
+[21Jan2025 16:56:47.493] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'hellfirepvp.astralsorcery.common.network.login.server.PktLoginSyncDataHolder' to 'astralsorcery:net_channel' sequence 0
+[21Jan2025 16:56:47.542] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'hellfirepvp.astralsorcery.common.network.login.server.PktLoginSyncGateway' to 'astralsorcery:net_channel' sequence 1
+[21Jan2025 16:56:47.595] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'hellfirepvp.astralsorcery.common.network.login.server.PktLoginSyncPerkInformation' to 'astralsorcery:net_channel' sequence 2
+[21Jan2025 16:56:47.663] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'hellfirepvp.astralsorcery.common.network.login.client.PktLoginAcknowledge' to 'astralsorcery:net_channel' sequence 3
+[21Jan2025 16:56:47.713] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.fml.network.FMLHandshakeMessages$S2CModList' to 'fml:handshake' sequence 4
+[21Jan2025 16:56:47.760] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 5
+[21Jan2025 16:56:47.786] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel astralsorcery:net_channel with index 0
+[21Jan2025 16:56:47.786] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type hellfirepvp.astralsorcery.common.network.login.client.PktLoginAcknowledge
+[21Jan2025 16:56:47.802] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel astralsorcery:net_channel with index 1
+[21Jan2025 16:56:47.802] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type hellfirepvp.astralsorcery.common.network.login.client.PktLoginAcknowledge
+[21Jan2025 16:56:47.815] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 6
+[21Jan2025 16:56:47.891] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 7
+[21Jan2025 16:56:47.947] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry astralsorcery:constellations' to 'fml:handshake' sequence 8
+[21Jan2025 16:56:47.997] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 9
+[21Jan2025 16:56:48.046] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 10
+[21Jan2025 16:56:48.114] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry astralsorcery:perk_attribute_custom_modifiers' to 'fml:handshake' sequence 11
+[21Jan2025 16:56:48.189] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 12
+[21Jan2025 16:56:48.265] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry astralsorcery:perk_attribute_types' to 'fml:handshake' sequence 13
+[21Jan2025 16:56:48.336] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry astralsorcery:perk_attribute_readers' to 'fml:handshake' sequence 14
+[21Jan2025 16:56:48.372] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel astralsorcery:net_channel with index 3
+[21Jan2025 16:56:48.372] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type hellfirepvp.astralsorcery.common.network.login.client.PktLoginAcknowledge
+[21Jan2025 16:56:48.387] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:motive' to 'fml:handshake' sequence 15
+[21Jan2025 16:56:48.387] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[21Jan2025 16:56:48.387] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SModListReply
+[21Jan2025 16:56:48.387] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, mowziesmobs, astralsorcery, pamhc2trees, pamhc2crops, jei, siegemachines, pamhc2foodextended, curios, terraforged, pamhc2foodcore, citadel, alexsmobs, securitycraft, travelersbackpack, sereneseasons, toughasnails, witherstormmod, tombstone, dungeoncrawl, pmmo, architectury, observerlib, iceandfire, cloth-config, magistuarmory, carryon, forge, appleskin, valhelsia_core, valhelsia_structures, tlskincape, geckolib3, chipped]
+[21Jan2025 16:56:48.387] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'toughasnails:main_channel' : Version test of '0' from client : ACCEPTED
+[21Jan2025 16:56:48.387] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[21Jan2025 16:56:48.387] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[21Jan2025 16:56:48.387] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of '1.15.6.24' from client : ACCEPTED
+[21Jan2025 16:56:48.387] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML2' from client : ACCEPTED
+[21Jan2025 16:56:48.387] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[21Jan2025 16:56:48.387] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.9.12.1' from client : ACCEPTED
+[21Jan2025 16:56:48.387] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'iceandfire:main_channel' : Version test of '1' from client : ACCEPTED
+[21Jan2025 16:56:48.387] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split_11' : Version test of '1.1' from client : ACCEPTED
+[21Jan2025 16:56:48.387] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'travelersbackpack:network' : Version test of 'travelersbackpack:1' from client : ACCEPTED
+[21Jan2025 16:56:48.388] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[21Jan2025 16:56:48.388] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'appleskin:sync' : Version test of '1' from client : ACCEPTED
+[21Jan2025 16:56:48.388] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML2' from client : ACCEPTED
+[21Jan2025 16:56:48.388] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[21Jan2025 16:56:48.388] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'tombstone:tombstone_channel' : Version test of 'tombstone-6.9.6' from client : ACCEPTED
+[21Jan2025 16:56:48.388] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[21Jan2025 16:56:48.388] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML2' from client : ACCEPTED
+[21Jan2025 16:56:48.388] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'astralsorcery:net_channel' : Version test of '0' from client : ACCEPTED
+[21Jan2025 16:56:48.388] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML2' from client : ACCEPTED
+[21Jan2025 16:56:48.388] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'pmmo:main_channel' : Version test of '1' from client : ACCEPTED
+[21Jan2025 16:56:48.388] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'siegemachines:main' : Version test of '1' from client : ACCEPTED
+[21Jan2025 16:56:48.388] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib3:main' : Version test of '0' from client : ACCEPTED
+[21Jan2025 16:56:48.388] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'sereneseasons:main_channel' : Version test of '0' from client : ACCEPTED
+[21Jan2025 16:56:48.388] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'witherstormmod:main' : Version test of '2.2' from client : ACCEPTED
+[21Jan2025 16:56:48.388] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML2' from client : ACCEPTED
+[21Jan2025 16:56:48.388] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'valhelsia_core:channel' : Version test of '1.0' from client : ACCEPTED
+[21Jan2025 16:56:48.388] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.0' from client : ACCEPTED
+[21Jan2025 16:56:48.388] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[21Jan2025 16:56:48.388] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[21Jan2025 16:56:48.388] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[21Jan2025 16:56:48.388] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:48.388] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:48.438] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 16
+[21Jan2025 16:56:48.454] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel astralsorcery:net_channel with index 2
+[21Jan2025 16:56:48.454] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type hellfirepvp.astralsorcery.common.network.login.client.PktLoginAcknowledge
+[21Jan2025 16:56:48.500] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 17
+[21Jan2025 16:56:48.572] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 18
+[21Jan2025 16:56:48.620] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 19
+[21Jan2025 16:56:48.630] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[21Jan2025 16:56:48.630] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:48.630] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:48.630] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[21Jan2025 16:56:48.630] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:48.630] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:48.630] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[21Jan2025 16:56:48.630] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:48.630] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:48.630] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[21Jan2025 16:56:48.631] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:48.631] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:48.631] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[21Jan2025 16:56:48.631] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:48.631] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:48.631] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[21Jan2025 16:56:48.631] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:48.631] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:48.638] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[21Jan2025 16:56:48.638] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:48.638] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:48.638] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[21Jan2025 16:56:48.638] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:48.638] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:48.638] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[21Jan2025 16:56:48.638] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:48.638] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:48.638] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[21Jan2025 16:56:48.638] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:48.638] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:48.670] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry astralsorcery:altar_recipe_effects' to 'fml:handshake' sequence 20
+[21Jan2025 16:56:48.736] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry astralsorcery:constellation_effect' to 'fml:handshake' sequence 21
+[21Jan2025 16:56:48.806] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry astralsorcery:perk_attribute_converters' to 'fml:handshake' sequence 22
+[21Jan2025 16:56:48.820] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[21Jan2025 16:56:48.820] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:48.820] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:48.820] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[21Jan2025 16:56:48.820] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:48.820] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:48.820] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[21Jan2025 16:56:48.820] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:48.820] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:48.820] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[21Jan2025 16:56:48.820] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:48.820] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:48.868] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry astralsorcery:attribute_crystal_usages' to 'fml:handshake' sequence 23
+[21Jan2025 16:56:48.922] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 24
+[21Jan2025 16:56:48.970] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry astralsorcery:structure_types' to 'fml:handshake' sequence 25
+[21Jan2025 16:56:48.994] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[21Jan2025 16:56:48.994] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:48.994] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:49.002] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[21Jan2025 16:56:49.002] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:49.002] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:49.002] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[21Jan2025 16:56:49.002] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:49.002] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:49.041] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry observerlib:matchable_structures' to 'fml:handshake' sequence 26
+[21Jan2025 16:56:49.093] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:data_serializers' to 'fml:handshake' sequence 27
+[21Jan2025 16:56:49.109] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[21Jan2025 16:56:49.110] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:49.110] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:49.143] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry astralsorcery:attribute_crystal_properties' to 'fml:handshake' sequence 28
+[21Jan2025 16:56:49.164] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[21Jan2025 16:56:49.164] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:49.164] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:49.196] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 29
+[21Jan2025 16:56:49.197] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[21Jan2025 16:56:49.197] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:49.197] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:49.247] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tombstone:perks' to 'fml:handshake' sequence 30
+[21Jan2025 16:56:49.313] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry observerlib:observer_providers' to 'fml:handshake' sequence 31
+[21Jan2025 16:56:49.380] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 32
+[21Jan2025 16:56:49.408] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[21Jan2025 16:56:49.408] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:49.408] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:49.415] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[21Jan2025 16:56:49.415] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:49.416] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:49.416] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[21Jan2025 16:56:49.416] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:49.416] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:49.444] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry astralsorcery:engraving_effect' to 'fml:handshake' sequence 33
+[21Jan2025 16:56:49.499] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 34
+[21Jan2025 16:56:49.548] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry astralsorcery:mantle_effect' to 'fml:handshake' sequence 35
+[21Jan2025 16:56:49.614] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 36
+[21Jan2025 16:56:49.620] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[21Jan2025 16:56:49.620] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:49.620] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:49.620] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[21Jan2025 16:56:49.620] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:49.620] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:49.620] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[21Jan2025 16:56:49.621] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:49.621] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:49.621] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[21Jan2025 16:56:49.621] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:49.621] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:49.664] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 37
+[21Jan2025 16:56:49.678] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[21Jan2025 16:56:49.678] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:49.678] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:49.729] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[21Jan2025 16:56:49.729] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:49.729] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:49.739] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config carryon-server.toml' to 'fml:handshake' sequence 38
+[21Jan2025 16:56:49.789] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config pamhc2crops.toml' to 'fml:handshake' sequence 39
+[21Jan2025 16:56:49.847] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tombstone-server.toml' to 'fml:handshake' sequence 40
+[21Jan2025 16:56:49.926] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config pamhc2trees.toml' to 'fml:handshake' sequence 41
+[21Jan2025 16:56:50.006] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config witherstormmod-server.toml' to 'fml:handshake' sequence 42
+[21Jan2025 16:56:50.065] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config toughasnails-server.toml' to 'fml:handshake' sequence 43
+[21Jan2025 16:56:50.121] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 44
+[21Jan2025 16:56:50.172] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 45
+[21Jan2025 16:56:50.223] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config astralsorcery.toml' to 'fml:handshake' sequence 46
+[21Jan2025 16:56:52.050] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 35
+[21Jan2025 16:56:52.050] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:52.050] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:52.050] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 36
+[21Jan2025 16:56:52.050] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 36 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:52.050] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:52.050] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 37
+[21Jan2025 16:56:52.050] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 37 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:52.050] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:52.050] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 38
+[21Jan2025 16:56:52.050] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 38 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:52.050] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:52.094] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 39
+[21Jan2025 16:56:52.094] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 39 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:52.094] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:52.094] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 40
+[21Jan2025 16:56:52.094] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 40 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:52.095] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:52.095] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 41
+[21Jan2025 16:56:52.095] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 41 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:52.095] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:52.095] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 42
+[21Jan2025 16:56:52.095] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 42 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:52.095] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:52.095] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 43
+[21Jan2025 16:56:52.095] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 43 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:52.095] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:52.095] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 44
+[21Jan2025 16:56:52.095] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 44 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:52.095] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:52.273] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 45
+[21Jan2025 16:56:52.273] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 45 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:52.273] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:52.273] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 46
+[21Jan2025 16:56:52.273] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 46 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[21Jan2025 16:56:52.274] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21Jan2025 16:56:52.295] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[21Jan2025 16:56:52.393] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4a947d7a
+[21Jan2025 16:56:52.429] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: AquilesXD2[/127.156.107.202:57607] logged in with entity id 28074 at (1189.558928070119, 70.0, 489.9001891933853)
+[21Jan2025 16:56:52.430] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.ForgeConnectionNetworkFilter@4869f49d into net.minecraft.network.NetworkManager@b198668
+[21Jan2025 16:56:52.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CREADOR] [PeneTactico] AquilesXD2 ② joined the game
+[21Jan2025 16:56:52.553] [Server thread/INFO] [harmonised.pmmo.ProjectMMOMod/]: Project MMO version: "3.69.0" Latest: "3.67"
+[21Jan2025 16:56:57.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4015ms or 80 ticks behind
+[21Jan2025 16:57:15.917] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3389ms or 67 ticks behind
+[21Jan2025 16:57:33.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2866ms or 57 ticks behind
+[21Jan2025 16:57:33.983] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [CREADOR] [PeneTactico] jony33D ② has reached level 16 in mining! [minecraft:overworld|x:1282.70|y:65.00|z:977.30]
+[21Jan2025 16:57:51.731] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3003ms or 60 ticks behind
+[21Jan2025 16:58:09.283] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2555ms or 51 ticks behind
+[21Jan2025 16:58:26.651] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[21Jan2025 16:58:44.298] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2670ms or 53 ticks behind
+[21Jan2025 16:59:01.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2484ms or 49 ticks behind
+[21Jan2025 16:59:19.245] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2518ms or 50 ticks behind
+[21Jan2025 16:59:33.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Momoliano has made the advancement [Eye of The Storm]
+[21Jan2025 16:59:37.405] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3178ms or 63 ticks behind
+[21Jan2025 16:59:52.590] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [PeneTactico] [Miembro] Rein_WNH ③ has reached level 25 in agility! [minecraft:overworld|x:1210.08|y:69.36|z:584.08]
+[21Jan2025 16:59:57.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[21Jan2025 17:00:21.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[21Jan2025 17:00:33.138] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: Momoliano has reached level 10 in endurance! [minecraft:overworld|x:-78.30|y:56.00|z:365.70]
+[21Jan2025 17:00:33.950] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [CREADOR] [PeneTactico] AquilesXD2 ② has reached level 30 in agility! [minecraft:overworld|x:1215.23|y:50.70|z:703.30]
+[21Jan2025 17:00:47.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[21Jan2025 17:00:58.020] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: Momoliano has reached level 3 in mining! [minecraft:overworld|x:-78.30|y:56.00|z:364.89]
+[21Jan2025 17:01:07.388] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[21Jan2025 17:01:07.405] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[21Jan2025 17:01:07.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3051ms or 61 ticks behind
+[21Jan2025 17:01:26.441] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3963ms or 79 ticks behind
+[21Jan2025 17:01:35.670] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [6,36]
+[21Jan2025 17:01:35.671] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_180 at (105 | 40 | 581)
+[21Jan2025 17:01:35.671] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_180 at (105 | 40 | 581)
+[21Jan2025 17:01:35.671] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (110 | 13 | 580)
+[21Jan2025 17:01:35.671] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (110 | 13 | 580)
+[21Jan2025 17:01:35.671] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_90 at (105 | 13 | 563)
+[21Jan2025 17:01:35.671] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation CLOCKWISE_90 at (105 | 13 | 563)
+[21Jan2025 17:01:35.672] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (111 | 13 | 590)
+[21Jan2025 17:01:35.672] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (111 | 13 | 590)
+[21Jan2025 17:01:35.672] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (110 | 13 | 585)
+[21Jan2025 17:01:35.672] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (110 | 13 | 585)
+[21Jan2025 17:01:35.672] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_180 at (106 | 13 | 591)
+[21Jan2025 17:01:35.672] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_180 at (106 | 13 | 591)
+[21Jan2025 17:01:35.672] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [6,36]
+[21Jan2025 17:01:36.629] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: Momoliano has reached level 11 in agility! [minecraft:overworld|x:-95.75|y:68.00|z:384.40]
+[21Jan2025 17:01:41.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] AquilesXD2 ②: Set own game mode to Spectator Mode]
+[21Jan2025 17:01:44.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3290ms or 65 ticks behind
+[21Jan2025 17:01:56.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] AquilesXD2 ②: Set own game mode to Survival Mode]
+[21Jan2025 17:01:57.716] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-25,36]
+[21Jan2025 17:01:57.716] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (-391 | 49 | 570)
+[21Jan2025 17:01:57.716] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (-391 | 49 | 570)
+[21Jan2025 17:01:57.717] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (-390 | 49 | 579)
+[21Jan2025 17:01:57.717] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (-390 | 49 | 579)
+[21Jan2025 17:01:57.717] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-401 | 49 | 589)
+[21Jan2025 17:01:57.717] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-401 | 49 | 589)
+[21Jan2025 17:01:57.717] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_90 at (-396 | 49 | 584)
+[21Jan2025 17:01:57.718] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_90 at (-396 | 49 | 584)
+[21Jan2025 17:01:57.720] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-388 | 22 | 589)
+[21Jan2025 17:01:57.720] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-388 | 22 | 589)
+[21Jan2025 17:01:57.720] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@235e767c for dungeoncrawl:default/node/connector/connector_6 at (-388 | 22 | 589)
+[21Jan2025 17:01:57.721] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@235e767c for dungeoncrawl:default/node/connector/connector_6 at (-388 | 22 | 589)
+[21Jan2025 17:01:57.721] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/fountain with rotation CLOCKWISE_180 at (-405 | 21 | 584)
+[21Jan2025 17:01:57.722] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/fountain with rotation CLOCKWISE_180 at (-405 | 21 | 584)
+[21Jan2025 17:01:57.722] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@235e767c for dungeoncrawl:catacombs/node/fountain at (-405 | 21 | 584)
+[21Jan2025 17:01:57.722] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@235e767c for dungeoncrawl:catacombs/node/fountain at (-405 | 21 | 584)
+[21Jan2025 17:01:57.723] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (-391 | 13 | 570)
+[21Jan2025 17:01:57.723] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (-391 | 13 | 570)
+[21Jan2025 17:01:57.723] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-391 | 13 | 579)
+[21Jan2025 17:01:57.723] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-391 | 13 | 579)
+[21Jan2025 17:01:57.723] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/lava_hall with rotation COUNTERCLOCKWISE_90 at (-396 | 13 | 584)
+[21Jan2025 17:01:57.724] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/lava_hall with rotation COUNTERCLOCKWISE_90 at (-396 | 13 | 584)
+[21Jan2025 17:01:57.724] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-25,36]
+[21Jan2025 17:01:57.763] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-25,37]
+[21Jan2025 17:01:57.763] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (-390 | 49 | 601)
+[21Jan2025 17:01:57.763] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (-390 | 49 | 601)
+[21Jan2025 17:01:57.764] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-401 | 49 | 589)
+[21Jan2025 17:01:57.764] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-401 | 49 | 589)
+[21Jan2025 17:01:57.764] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_90 at (-396 | 49 | 584)
+[21Jan2025 17:01:57.765] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_90 at (-396 | 49 | 584)
+[21Jan2025 17:01:57.765] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-391 | 49 | 606)
+[21Jan2025 17:01:57.766] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-391 | 49 | 606)
+[21Jan2025 17:01:57.766] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-388 | 22 | 589)
+[21Jan2025 17:01:57.766] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-388 | 22 | 589)
+[21Jan2025 17:01:57.766] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@235e767c for dungeoncrawl:default/node/connector/connector_6 at (-388 | 22 | 589)
+[21Jan2025 17:01:57.766] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@235e767c for dungeoncrawl:default/node/connector/connector_6 at (-388 | 22 | 589)
+[21Jan2025 17:01:57.766] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/fountain with rotation CLOCKWISE_180 at (-405 | 21 | 584)
+[21Jan2025 17:01:57.769] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/fountain with rotation CLOCKWISE_180 at (-405 | 21 | 584)
+[21Jan2025 17:01:57.769] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@235e767c for dungeoncrawl:catacombs/node/fountain at (-405 | 21 | 584)
+[21Jan2025 17:01:57.777] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@235e767c for dungeoncrawl:catacombs/node/fountain at (-405 | 21 | 584)
+[21Jan2025 17:01:57.778] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-391 | 13 | 601)
+[21Jan2025 17:01:57.779] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-391 | 13 | 601)
+[21Jan2025 17:01:57.779] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/lava_hall with rotation COUNTERCLOCKWISE_90 at (-396 | 13 | 584)
+[21Jan2025 17:01:57.783] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/lava_hall with rotation COUNTERCLOCKWISE_90 at (-396 | 13 | 584)
+[21Jan2025 17:01:57.784] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-392 | 13 | 606)
+[21Jan2025 17:01:57.784] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-392 | 13 | 606)
+[21Jan2025 17:01:57.784] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-25,37]
+[21Jan2025 17:02:01.014] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-26,32]
+[21Jan2025 17:02:01.014] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-26,32]
+[21Jan2025 17:02:01.024] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-26,33]
+[21Jan2025 17:02:01.024] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (-422 | 13 | 531)
+[21Jan2025 17:02:01.025] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (-422 | 13 | 531)
+[21Jan2025 17:02:01.025] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-26,33]
+[21Jan2025 17:02:01.029] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-26,34]
+[21Jan2025 17:02:01.029] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-417 | 13 | 546)
+[21Jan2025 17:02:01.029] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-417 | 13 | 546)
+[21Jan2025 17:02:01.029] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-418 | 13 | 547)
+[21Jan2025 17:02:01.029] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-418 | 13 | 547)
+[21Jan2025 17:02:01.030] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (-422 | 13 | 531)
+[21Jan2025 17:02:01.030] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (-422 | 13 | 531)
+[21Jan2025 17:02:01.030] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-417 | 13 | 557)
+[21Jan2025 17:02:01.030] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-417 | 13 | 557)
+[21Jan2025 17:02:01.030] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (-418 | 13 | 552)
+[21Jan2025 17:02:01.030] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (-418 | 13 | 552)
+[21Jan2025 17:02:01.031] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_180 at (-422 | 13 | 558)
+[21Jan2025 17:02:01.031] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_180 at (-422 | 13 | 558)
+[21Jan2025 17:02:01.031] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-26,34]
+[21Jan2025 17:02:01.035] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-26,35]
+[21Jan2025 17:02:01.035] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (-407 | 13 | 563)
+[21Jan2025 17:02:01.035] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (-407 | 13 | 563)
+[21Jan2025 17:02:01.036] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-406 | 13 | 562)
+[21Jan2025 17:02:01.036] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-406 | 13 | 562)
+[21Jan2025 17:02:01.036] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_180 at (-422 | 13 | 558)
+[21Jan2025 17:02:01.039] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_180 at (-422 | 13 | 558)
+[21Jan2025 17:02:01.039] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (-401 | 13 | 562)
+[21Jan2025 17:02:01.039] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (-401 | 13 | 562)
+[21Jan2025 17:02:01.039] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-26,35]
+[21Jan2025 17:02:01.049] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-26,36]
+[21Jan2025 17:02:01.049] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-419 | 49 | 588)
+[21Jan2025 17:02:01.049] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-419 | 49 | 588)
+[21Jan2025 17:02:01.049] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (-410 | 49 | 589)
+[21Jan2025 17:02:01.050] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (-410 | 49 | 589)
+[21Jan2025 17:02:01.050] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-401 | 49 | 589)
+[21Jan2025 17:02:01.050] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-401 | 49 | 589)
+[21Jan2025 17:02:01.050] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/fountain with rotation CLOCKWISE_180 at (-405 | 21 | 584)
+[21Jan2025 17:02:01.050] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/fountain with rotation CLOCKWISE_180 at (-405 | 21 | 584)
+[21Jan2025 17:02:01.051] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@235e767c for dungeoncrawl:catacombs/node/fountain at (-405 | 21 | 584)
+[21Jan2025 17:02:01.051] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@235e767c for dungeoncrawl:catacombs/node/fountain at (-405 | 21 | 584)
+[21Jan2025 17:02:01.051] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-26,36]
+[21Jan2025 17:02:01.055] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-26,37]
+[21Jan2025 17:02:01.055] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-419 | 49 | 588)
+[21Jan2025 17:02:01.056] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-419 | 49 | 588)
+[21Jan2025 17:02:01.056] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (-413 | 49 | 598)
+[21Jan2025 17:02:01.056] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (-413 | 49 | 598)
+[21Jan2025 17:02:01.056] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_90 at (-413 | 49 | 602)
+[21Jan2025 17:02:01.056] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_90 at (-413 | 49 | 602)
+[21Jan2025 17:02:01.056] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (-417 | 49 | 597)
+[21Jan2025 17:02:01.057] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (-417 | 49 | 597)
+[21Jan2025 17:02:01.057] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (-418 | 49 | 606)
+[21Jan2025 17:02:01.057] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (-418 | 49 | 606)
+[21Jan2025 17:02:01.057] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (-410 | 49 | 589)
+[21Jan2025 17:02:01.057] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (-410 | 49 | 589)
+[21Jan2025 17:02:01.057] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-401 | 49 | 589)
+[21Jan2025 17:02:01.057] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-401 | 49 | 589)
+[21Jan2025 17:02:01.057] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/fountain with rotation CLOCKWISE_180 at (-405 | 21 | 584)
+[21Jan2025 17:02:01.058] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/fountain with rotation CLOCKWISE_180 at (-405 | 21 | 584)
+[21Jan2025 17:02:01.058] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@235e767c for dungeoncrawl:catacombs/node/fountain at (-405 | 21 | 584)
+[21Jan2025 17:02:01.059] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@235e767c for dungeoncrawl:catacombs/node/fountain at (-405 | 21 | 584)
+[21Jan2025 17:02:01.059] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-26,37]
+[21Jan2025 17:02:03.573] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-27,32]
+[21Jan2025 17:02:03.573] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-27,32]
+[21Jan2025 17:02:03.700] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4023ms or 80 ticks behind
+[21Jan2025 17:02:05.130] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-27,33]
+[21Jan2025 17:02:05.130] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (-422 | 13 | 531)
+[21Jan2025 17:02:05.131] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (-422 | 13 | 531)
+[21Jan2025 17:02:05.133] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-27,33]
+[21Jan2025 17:02:05.139] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-27,34]
+[21Jan2025 17:02:05.139] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-417 | 13 | 546)
+[21Jan2025 17:02:05.139] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-417 | 13 | 546)
+[21Jan2025 17:02:05.139] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-418 | 13 | 547)
+[21Jan2025 17:02:05.140] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-418 | 13 | 547)
+[21Jan2025 17:02:05.140] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (-422 | 13 | 531)
+[21Jan2025 17:02:05.140] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (-422 | 13 | 531)
+[21Jan2025 17:02:05.140] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-417 | 13 | 557)
+[21Jan2025 17:02:05.141] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-417 | 13 | 557)
+[21Jan2025 17:02:05.141] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (-418 | 13 | 552)
+[21Jan2025 17:02:05.141] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (-418 | 13 | 552)
+[21Jan2025 17:02:05.141] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_180 at (-422 | 13 | 558)
+[21Jan2025 17:02:05.141] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_180 at (-422 | 13 | 558)
+[21Jan2025 17:02:05.142] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-27,34]
+[21Jan2025 17:02:05.250] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-27,35]
+[21Jan2025 17:02:05.250] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_180 at (-422 | 13 | 558)
+[21Jan2025 17:02:05.251] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_180 at (-422 | 13 | 558)
+[21Jan2025 17:02:05.251] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-27,35]
+[21Jan2025 17:02:05.255] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-27,36]
+[21Jan2025 17:02:05.255] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-419 | 49 | 588)
+[21Jan2025 17:02:05.255] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-419 | 49 | 588)
+[21Jan2025 17:02:05.255] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-27,36]
+[21Jan2025 17:02:05.258] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-27,37]
+[21Jan2025 17:02:05.258] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-419 | 49 | 588)
+[21Jan2025 17:02:05.258] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-419 | 49 | 588)
+[21Jan2025 17:02:05.259] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (-418 | 49 | 598)
+[21Jan2025 17:02:05.259] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (-418 | 49 | 598)
+[21Jan2025 17:02:05.259] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner with rotation COUNTERCLOCKWISE_90 at (-418 | 49 | 602)
+[21Jan2025 17:02:05.259] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation COUNTERCLOCKWISE_90 at (-418 | 49 | 602)
+[21Jan2025 17:02:05.259] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (-417 | 49 | 597)
+[21Jan2025 17:02:05.259] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (-417 | 49 | 597)
+[21Jan2025 17:02:05.259] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (-418 | 49 | 606)
+[21Jan2025 17:02:05.259] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (-418 | 49 | 606)
+[21Jan2025 17:02:05.259] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-27,37]
+[21Jan2025 17:02:10.770] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-25,38]
+[21Jan2025 17:02:10.770] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (-386 | 49 | 609)
+[21Jan2025 17:02:10.770] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (-386 | 49 | 609)
+[21Jan2025 17:02:10.770] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner with rotation COUNTERCLOCKWISE_90 at (-391 | 49 | 609)
+[21Jan2025 17:02:10.771] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation COUNTERCLOCKWISE_90 at (-391 | 49 | 609)
+[21Jan2025 17:02:10.771] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-391 | 49 | 606)
+[21Jan2025 17:02:10.771] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-391 | 49 | 606)
+[21Jan2025 17:02:10.771] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (-390 | 49 | 615)
+[21Jan2025 17:02:10.771] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (-390 | 49 | 615)
+[21Jan2025 17:02:10.771] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_90 at (-396 | 49 | 620)
+[21Jan2025 17:02:10.772] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_90 at (-396 | 49 | 620)
+[21Jan2025 17:02:10.772] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-392 | 13 | 606)
+[21Jan2025 17:02:10.774] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-392 | 13 | 606)
+[21Jan2025 17:02:10.774] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (-386 | 13 | 618)
+[21Jan2025 17:02:10.774] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (-386 | 13 | 618)
+[21Jan2025 17:02:10.774] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation COUNTERCLOCKWISE_90 at (-391 | 13 | 618)
+[21Jan2025 17:02:10.774] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation COUNTERCLOCKWISE_90 at (-391 | 13 | 618)
+[21Jan2025 17:02:10.774] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-391 | 13 | 615)
+[21Jan2025 17:02:10.775] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-391 | 13 | 615)
+[21Jan2025 17:02:10.775] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-25,38]
+[21Jan2025 17:02:11.044] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-26,38]
+[21Jan2025 17:02:11.048] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (-418 | 49 | 606)
+[21Jan2025 17:02:11.048] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (-418 | 49 | 606)
+[21Jan2025 17:02:11.048] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_90 at (-413 | 49 | 618)
+[21Jan2025 17:02:11.048] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_90 at (-413 | 49 | 618)
+[21Jan2025 17:02:11.048] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-418 | 49 | 615)
+[21Jan2025 17:02:11.049] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-418 | 49 | 615)
+[21Jan2025 17:02:11.049] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-26,38]
+[21Jan2025 17:02:11.425] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-27,38]
+[21Jan2025 17:02:11.425] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (-418 | 49 | 606)
+[21Jan2025 17:02:11.425] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (-418 | 49 | 606)
+[21Jan2025 17:02:11.425] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (-418 | 49 | 618)
+[21Jan2025 17:02:11.425] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (-418 | 49 | 618)
+[21Jan2025 17:02:11.425] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-418 | 49 | 615)
+[21Jan2025 17:02:11.425] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-418 | 49 | 615)
+[21Jan2025 17:02:11.426] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-27,38]
+[21Jan2025 17:02:26.020] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-25,39]
+[21Jan2025 17:02:26.020] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_90 at (-396 | 49 | 620)
+[21Jan2025 17:02:26.021] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_90 at (-396 | 49 | 620)
+[21Jan2025 17:02:26.022] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-390 | 13 | 629)
+[21Jan2025 17:02:26.022] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-390 | 13 | 629)
+[21Jan2025 17:02:26.022] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (-391 | 13 | 624)
+[21Jan2025 17:02:26.022] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (-391 | 13 | 624)
+[21Jan2025 17:02:26.022] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_90 at (-395 | 13 | 630)
+[21Jan2025 17:02:26.025] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_90 at (-395 | 13 | 630)
+[21Jan2025 17:02:26.026] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-25,39]
+[21Jan2025 17:02:26.303] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-27,39]
+[21Jan2025 17:02:26.303] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-419 | 49 | 624)
+[21Jan2025 17:02:26.304] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-419 | 49 | 624)
+[21Jan2025 17:02:26.305] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-27,39]
+[21Jan2025 17:02:26.313] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-26,39]
+[21Jan2025 17:02:26.313] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-419 | 49 | 624)
+[21Jan2025 17:02:26.316] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-419 | 49 | 624)
+[21Jan2025 17:02:26.316] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-26,39]
+[21Jan2025 17:02:27.608] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8931ms or 178 ticks behind
+[21Jan2025 17:02:28.993] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-25,40]
+[21Jan2025 17:02:28.994] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-390 | 13 | 645)
+[21Jan2025 17:02:28.995] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-390 | 13 | 645)
+[21Jan2025 17:02:28.995] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-391 | 13 | 646)
+[21Jan2025 17:02:28.995] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-391 | 13 | 646)
+[21Jan2025 17:02:28.995] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_90 at (-395 | 13 | 630)
+[21Jan2025 17:02:28.996] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_90 at (-395 | 13 | 630)
+[21Jan2025 17:02:28.996] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-391 | 13 | 651)
+[21Jan2025 17:02:28.996] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-391 | 13 | 651)
+[21Jan2025 17:02:28.996] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-25,40]
+[21Jan2025 17:02:29.221] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-26,40]
+[21Jan2025 17:02:29.221] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-26,40]
+[21Jan2025 17:02:29.458] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-27,40]
+[21Jan2025 17:02:29.458] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-27,40]
+[21Jan2025 17:02:32.246] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-21,41]
+[21Jan2025 17:02:32.246] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (-334 | 40 | 653)
+[21Jan2025 17:02:32.246] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (-334 | 40 | 653)
+[21Jan2025 17:02:32.246] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_180 at (-351 | 40 | 647)
+[21Jan2025 17:02:32.247] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_180 at (-351 | 40 | 647)
+[21Jan2025 17:02:32.247] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-329 | 40 | 651)
+[21Jan2025 17:02:32.247] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-329 | 40 | 651)
+[21Jan2025 17:02:32.247] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-21,41]
+[21Jan2025 17:02:32.250] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-20,41]
+[21Jan2025 17:02:32.252] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_180 at (-317 | 40 | 657)
+[21Jan2025 17:02:32.252] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_180 at (-317 | 40 | 657)
+[21Jan2025 17:02:32.252] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/secret_room_entrance with rotation NONE at (-320 | 40 | 652)
+[21Jan2025 17:02:32.252] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/secret_room_entrance with rotation NONE at (-320 | 40 | 652)
+[21Jan2025 17:02:32.252] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_180 at (-310 | 40 | 657)
+[21Jan2025 17:02:32.253] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_180 at (-310 | 40 | 657)
+[21Jan2025 17:02:32.253] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_180 at (-306 | 40 | 657)
+[21Jan2025 17:02:32.253] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_180 at (-306 | 40 | 657)
+[21Jan2025 17:02:32.253] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation NONE at (-311 | 40 | 653)
+[21Jan2025 17:02:32.253] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation NONE at (-311 | 40 | 653)
+[21Jan2025 17:02:32.253] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-20,41]
+[21Jan2025 17:02:32.257] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-19,41]
+[21Jan2025 17:02:32.257] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_180 at (-306 | 40 | 657)
+[21Jan2025 17:02:32.257] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_180 at (-306 | 40 | 657)
+[21Jan2025 17:02:32.258] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation NONE at (-311 | 40 | 653)
+[21Jan2025 17:02:32.258] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation NONE at (-311 | 40 | 653)
+[21Jan2025 17:02:32.258] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (-297 | 40 | 653)
+[21Jan2025 17:02:32.258] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (-297 | 40 | 653)
+[21Jan2025 17:02:32.258] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-302 | 40 | 652)
+[21Jan2025 17:02:32.259] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-302 | 40 | 652)
+[21Jan2025 17:02:32.259] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation NONE at (-295 | 40 | 649)
+[21Jan2025 17:02:32.259] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation NONE at (-295 | 40 | 649)
+[21Jan2025 17:02:32.259] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-19,41]
+[21Jan2025 17:02:32.263] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-22,41]
+[21Jan2025 17:02:32.263] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_180 at (-351 | 40 | 647)
+[21Jan2025 17:02:32.265] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_180 at (-351 | 40 | 647)
+[21Jan2025 17:02:32.265] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-22,41]
+[21Jan2025 17:02:32.333] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-18,41]
+[21Jan2025 17:02:32.334] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation NONE at (-295 | 40 | 649)
+[21Jan2025 17:02:32.334] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation NONE at (-295 | 40 | 649)
+[21Jan2025 17:02:32.335] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-18,41]
+[21Jan2025 17:02:32.340] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-17,41]
+[21Jan2025 17:02:32.340] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-17,41]
+[21Jan2025 17:02:32.627] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-26,41]
+[21Jan2025 17:02:32.627] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-26,41]
+[21Jan2025 17:02:32.632] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-25,41]
+[21Jan2025 17:02:32.632] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-390 | 13 | 656)
+[21Jan2025 17:02:32.633] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-390 | 13 | 656)
+[21Jan2025 17:02:32.633] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_90 at (-395 | 13 | 657)
+[21Jan2025 17:02:32.634] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_90 at (-395 | 13 | 657)
+[21Jan2025 17:02:32.635] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-25,41]
+[21Jan2025 17:02:32.638] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-24,41]
+[21Jan2025 17:02:32.638] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_90 at (-395 | 13 | 657)
+[21Jan2025 17:02:32.639] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_90 at (-395 | 13 | 657)
+[21Jan2025 17:02:32.639] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-24,41]
+[21Jan2025 17:02:32.644] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-23,41]
+[21Jan2025 17:02:32.644] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-23,41]
+[21Jan2025 17:02:32.735] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-27,41]
+[21Jan2025 17:02:32.737] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-27,41]
+[21Jan2025 17:02:47.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4493ms or 89 ticks behind
+[21Jan2025 17:03:09.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7200ms or 144 ticks behind
+[21Jan2025 17:03:31.119] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Desert Myrmex Chitin'/31136, l='ServerLevel[world]', x=-457.94, y=66.92, z=559.69]
+[21Jan2025 17:03:31.984] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-412, y=64, z=561} BlockPos{x=-412, y=62, z=559}
+[21Jan2025 17:03:32.009] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: Momoliano has reached level 12 in agility! [minecraft:overworld|x:-411.21|y:63.00|z:561.03]
+[21Jan2025 17:03:35.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11438ms or 228 ticks behind
+[21Jan2025 17:03:58.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7640ms or 152 ticks behind
+[21Jan2025 17:04:11.910] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/30149, l='ServerLevel[world]', x=-433.87, y=62.41, z=536.87] died, message: 'Farmer was slain by Guster'
+[21Jan2025 17:04:19.524] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6296ms or 125 ticks behind
+[21Jan2025 17:04:41.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7305ms or 146 ticks behind
+[21Jan2025 17:04:48.244] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: Momoliano has reached level 11 in endurance! [minecraft:overworld|x:-475.06|y:73.82|z:542.97]
+[21Jan2025 17:05:01.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4293ms or 85 ticks behind
+[21Jan2025 17:05:03.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Momoliano was slain by Myrmex Worker
+[21Jan2025 17:05:03.649] [Server thread/DEBUG] [tombstone/]: A new grave of the player Momoliano was created at position [x:-471, y:72, z:538, dim:minecraft:overworld]
+[21Jan2025 17:05:03.743] [Server thread/INFO] [tombstone/]: The player Momoliano has successfully been saved
+[21Jan2025 17:05:18.228] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2200ms or 44 ticks behind
+[21Jan2025 17:05:38.801] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[21Jan2025 17:05:53.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Momoliano has made the advancement [It's an Emu!!!]
+[21Jan2025 17:06:00.765] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[21Jan2025 17:06:23.501] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [PeneTactico] [Miembro] Rein_WNH ③ has reached level 31 in endurance! [minecraft:overworld|x:1237.38|y:23.88|z:603.96]

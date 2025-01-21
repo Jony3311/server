@@ -7146,6 +7146,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-01-21 16:59:33 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_blackstone_wall": {
     "criteria": {
       "has_the_recipe": "2025-01-21 16:12:12 +0000"
