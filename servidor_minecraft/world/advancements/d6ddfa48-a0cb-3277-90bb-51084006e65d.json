@@ -2537,6 +2537,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-21 17:37:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed": {
     "criteria": {
       "has_the_recipe": "2025-01-21 16:12:11 +0000"
@@ -4828,6 +4834,12 @@
   "securitycraft:recipes/securitycraft/keycard_holder": {
     "criteria": {
       "has_the_recipe": "2025-01-21 16:12:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-01-21 17:38:57 +0000"
     },
     "done": true
   },
@@ -8655,8 +8667,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:jungle_edge": "2025-01-21 17:33:32 +0000",
       "minecraft:desert_hills": "2025-01-21 16:31:37 +0000",
       "minecraft:desert": "2025-01-21 16:31:29 +0000",
+      "minecraft:jungle": "2025-01-21 17:33:35 +0000",
+      "minecraft:savanna_plateau": "2025-01-21 17:35:28 +0000",
       "minecraft:river": "2025-01-21 16:23:43 +0000",
       "minecraft:wooded_hills": "2025-01-21 16:19:55 +0000",
       "minecraft:savanna": "2025-01-21 16:30:07 +0000",
