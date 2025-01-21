@@ -2942,3 +2942,16 @@ com.google.gson.JsonSyntaxException: Unknown item tag 'forge:ingots/bronze'
 [21Jan2025 15:50:28.164] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
 [21Jan2025 15:51:33.591] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: jony33D lost connection: Disconnected
 [21Jan2025 15:51:33.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CREADOR] [PeneTactico] jony33D ② left the game
+[21Jan2025 15:54:38.055] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@42b430fe
+[21Jan2025 15:54:38.100] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: jony33D[/127.200.59.155:50861] logged in with entity id 2754 at (1302.6007436674372, 66.0, 986.2371183912204)
+[21Jan2025 15:54:38.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CREADOR] [PeneTactico] jony33D ② joined the game
+[21Jan2025 15:54:38.223] [Server thread/INFO] [harmonised.pmmo.ProjectMMOMod/]: Project MMO version: "3.69.0" Latest: "3.67"
+[21Jan2025 15:59:02.529] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [CREADOR] [PeneTactico] jony33D ② has reached level 12 in crafting! [minecraft:overworld|x:1290.99|y:66.43|z:1007.25]
+[21Jan2025 16:01:16.823] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@37f3ec6
+[21Jan2025 16:01:16.874] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: alexAJP[/127.54.24.30:35865] logged in with entity id 4268 at (1176.331398171998, 32.0, -1327.8598601585875)
+[21Jan2025 16:01:16.897] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Victor y Joel] [Miembro] alexAJP ③ joined the game
+[21Jan2025 16:01:17.010] [Server thread/INFO] [harmonised.pmmo.ProjectMMOMod/]: Project MMO version: "3.69.0" Latest: "3.67"
+[21Jan2025 16:02:06.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CREADOR] [PeneTactico] jony33D ② has reached the goal [Strong or Careful]
+[21Jan2025 16:02:06.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CREADOR] [PeneTactico] jony33D ② was shot by Skeleton
+[21Jan2025 16:02:06.187] [Server thread/INFO] [tombstone/]: The player jony33D has successfully been saved
+[21Jan2025 16:02:23.280] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
