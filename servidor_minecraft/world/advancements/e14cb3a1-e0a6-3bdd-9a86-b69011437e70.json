@@ -3205,6 +3205,7 @@
       "minecraft:skeleton": "2025-01-20 02:52:19 +0000",
       "minecraft:spider": "2025-01-20 19:50:49 +0000",
       "minecraft:creeper": "2025-01-20 02:45:23 +0000",
+      "minecraft:husk": "2025-01-21 22:33:40 +0000",
       "minecraft:cave_spider": "2025-01-20 21:26:08 +0000",
       "minecraft:stray": "2025-01-20 21:24:06 +0000",
       "minecraft:enderman": "2025-01-21 18:52:01 +0000",
@@ -4164,6 +4165,12 @@
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:59:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-21 22:40:18 +0000"
     },
     "done": true
   },

@@ -3687,6 +3687,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_hydra": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-21 22:43:29 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_smooth_quartz_slab_from_reinforced_smooth_quartz_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:00:27 +0000"
@@ -5700,6 +5706,12 @@
   "minecraft:recipes/travelersbackpack/coal_smithing_netherite": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:00:28 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/crimson_post": {
+    "criteria": {
+      "has_item": "2025-01-21 22:48:33 +0000"
     },
     "done": true
   },
