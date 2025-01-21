@@ -2918,3 +2918,27 @@ com.google.gson.JsonSyntaxException: Unknown item tag 'forge:ingots/bronze'
 [21Jan2025 15:35:19.443] [Server thread/INFO] [ObserverLib/]: Loading of 'lightnetwork' for world minecraft:overworld finished.
 [21Jan2025 15:37:34.550] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'reach_set_server_entity_interact' ASM patch...
 [21Jan2025 15:37:34.562] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'reach_set_server_entity_interact' ASM patch!
+[21Jan2025 15:44:34.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[21Jan2025 15:46:57.122] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5f017bd1
+[21Jan2025 15:46:57.286] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: alexAJP[/127.54.24.30:52007] logged in with entity id 446 at (1145.711832886079, 23.0, -1373.4987171929508)
+[21Jan2025 15:46:57.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Victor y Joel] [Miembro] alexAJP ③ joined the game
+[21Jan2025 15:46:57.590] [Server thread/INFO] [harmonised.pmmo.ProjectMMOMod/]: Project MMO version: "3.69.0" Latest: "3.67"
+[21Jan2025 15:47:00.429] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21Jan2025 15:47:03.984] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for [Victor y Joel] [Miembro] alexAJP ③ with unique ID 80d67daf-e1f5-40f4-b724-db8b1e3ec6c8
+[21Jan2025 15:47:03.990] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1145 Y: 23 Z: -1373
+[21Jan2025 15:47:04.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Victor y Joel] [Miembro] alexAJP ③ was shot by Skeleton
+[21Jan2025 15:47:04.076] [Server thread/INFO] [tombstone/]: The player alexAJP has successfully been saved
+[21Jan2025 15:48:58.877] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@bc13106
+[21Jan2025 15:48:58.927] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: jony33D[/127.200.59.155:49365] logged in with entity id 1202 at (1302.6007436674372, 66.0, 986.2371183912204)
+[21Jan2025 15:48:58.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CREADOR] [PeneTactico] jony33D ② joined the game
+[21Jan2025 15:48:59.022] [Server thread/INFO] [harmonised.pmmo.ProjectMMOMod/]: Project MMO version: "3.69.0" Latest: "3.67"
+[21Jan2025 15:49:06.127] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for [Victor y Joel] [Miembro] alexAJP ③ with unique ID 63795968-4bee-45f2-90b8-3ebba9d7aee0
+[21Jan2025 15:49:06.136] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1148 Y: 23 Z: -1376
+[21Jan2025 15:49:06.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Victor y Joel] [Miembro] alexAJP ③ was shot by Skeleton
+[21Jan2025 15:49:06.175] [Server thread/INFO] [tombstone/]: The player alexAJP has successfully been saved
+[21Jan2025 15:50:23.500] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[21Jan2025 15:50:28.051] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: alexAJP lost connection: Timed out
+[21Jan2025 15:50:28.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Victor y Joel] [Miembro] alexAJP ③ left the game
+[21Jan2025 15:50:28.164] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[21Jan2025 15:51:33.591] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: jony33D lost connection: Disconnected
+[21Jan2025 15:51:33.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CREADOR] [PeneTactico] jony33D ② left the game
