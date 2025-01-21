@@ -449,6 +449,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-01-21 17:26:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/villager_smithing_gold": {
     "criteria": {
       "has_the_recipe": "2025-01-21 16:12:11 +0000"
@@ -1460,6 +1466,12 @@
   "securitycraft:recipes/securitycraft/reinforced_cobblestone_wall_from_reinforced_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-21 16:12:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-01-21 17:26:28 +0000"
     },
     "done": true
   },
@@ -8700,6 +8712,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-01-21 17:22:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_the_recipe": "2025-01-21 16:12:11 +0000"
@@ -9140,6 +9158,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2025-01-21 17:27:27 +0000",
       "carrot": "2025-01-21 16:34:15 +0000"
     },
     "done": false

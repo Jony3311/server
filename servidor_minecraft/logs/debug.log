@@ -13029,3 +13029,208 @@ java.lang.NullPointerException: null
 [21Jan2025 17:27:11.482] [Server thread/INFO] [tombstone/]: The player AquilesXD2 has successfully been saved
 [21Jan2025 17:27:17.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] AquilesXD2 ②: Teleported [CREADOR] [PeneTactico] AquilesXD2 ② to [PeneTactico] [Miembro] Rein_WNH ③]
 [21Jan2025 17:27:30.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <[Victor y Joel] [Miembro] alexAJP ③> AquilesXD2 porque me exitas tanto
+[21Jan2025 17:27:31.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <[Victor y Joel] [Miembro] alexAJP ③> eh?
+[21Jan2025 17:27:48.240] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23612ms or 472 ticks behind
+[21Jan2025 17:28:18.482] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15255ms or 305 ticks behind
+[21Jan2025 17:28:39.704] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: Momoliano has reached level 14 in endurance! [minecraft:overworld|x:-469.45|y:78.00|z:587.25]
+[21Jan2025 17:28:46.860] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13382ms or 267 ticks behind
+[21Jan2025 17:29:15.061] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13233ms or 264 ticks behind
+[21Jan2025 17:29:45.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15382ms or 307 ticks behind
+[21Jan2025 17:30:15.989] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15611ms or 312 ticks behind
+[21Jan2025 17:30:31.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CREADOR] [PeneTactico] AquilesXD2 ② was slain by Zombie
+[21Jan2025 17:30:31.708] [Server thread/DEBUG] [tombstone/]: A new grave of the player AquilesXD2 was created at position [x:1266, y:14, z:613, dim:minecraft:overworld]
+[21Jan2025 17:30:31.756] [Server thread/INFO] [tombstone/]: The player AquilesXD2 has successfully been saved
+[21Jan2025 17:30:49.242] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18264ms or 365 ticks behind
+[21Jan2025 17:31:16.505] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12277ms or 245 ticks behind
+[21Jan2025 17:31:19.082] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[21Jan2025 17:31:19.096] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[21Jan2025 17:31:25.067] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [Victor y Joel] [Miembro] alexAJP ③ has reached level 37 in combat! [minecraft:overworld|x:1237.85|y:14.00|z:-1350.80]
+[21Jan2025 17:31:26.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] AquilesXD2 ②: Set own game mode to Spectator Mode]
+[21Jan2025 17:31:26.585] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: Momoliano has reached level 7 in combat! [minecraft:overworld|x:-512.47|y:72.00|z:692.30]
+[21Jan2025 17:31:51.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20213ms or 404 ticks behind
+[21Jan2025 17:32:06.581] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-1004 | 49 | 564).
+[21Jan2025 17:32:06.583] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[21Jan2025 17:32:06.588] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 5(0) Rooms
+[21Jan2025 17:32:06.588] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[21Jan2025 17:32:06.592] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 5(0) Rooms
+[21Jan2025 17:32:06.592] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[21Jan2025 17:32:06.594] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 8(2) Nodes and 6(0) Rooms
+[21Jan2025 17:32:06.594] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[21Jan2025 17:32:06.595] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 8(0) Nodes and 5(0) Rooms
+[21Jan2025 17:32:06.595] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[21Jan2025 17:32:06.597] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 9(0) Nodes and 6(0) Rooms
+[21Jan2025 17:32:06.627] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Created the dungeon layout for [-58, 40] with a total of 371 pieces.
+[21Jan2025 17:32:11.666] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-597, y=64, z=665} BlockPos{x=-598, y=62, z=666}
+[21Jan2025 17:32:13.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] AquilesXD2 ②: Set own game mode to Creative Mode]
+[21Jan2025 17:32:19.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] AquilesXD2 ②: Set own game mode to Survival Mode]
+[21Jan2025 17:32:25.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18458ms or 369 ticks behind
+[21Jan2025 17:32:25.691] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: Momoliano has reached level 3 in farming! [minecraft:overworld|x:-622.40|y:70.26|z:696.03]
+[21Jan2025 17:32:26.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] AquilesXD2 ②: Set own game mode to Spectator Mode]
+[21Jan2025 17:32:37.961] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: Momoliano has reached level 17 in agility! [minecraft:overworld|x:-641.16|y:69.00|z:748.91]
+[21Jan2025 17:32:45.854] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [Victor y Joel] [Miembro] alexAJP ③ has reached level 18 in mining! [minecraft:overworld|x:1237.83|y:14.00|z:-1351.27]
+[21Jan2025 17:32:57.286] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17159ms or 343 ticks behind
+[21Jan2025 17:33:11.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] AquilesXD2 ②: Set own game mode to Survival Mode]
+[21Jan2025 17:33:26.487] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-54,43]
+[21Jan2025 17:33:26.487] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-54,43]
+[21Jan2025 17:33:26.518] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-54,44]
+[21Jan2025 17:33:26.518] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-54,44]
+[21Jan2025 17:33:26.530] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-54,45]
+[21Jan2025 17:33:26.530] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-54,45]
+[21Jan2025 17:33:27.384] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-54,42]
+[21Jan2025 17:33:27.385] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-54,42]
+[21Jan2025 17:33:27.433] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-54,41]
+[21Jan2025 17:33:27.433] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/lava_hall with rotation NONE at (-873 | 13 | 650)
+[21Jan2025 17:33:27.436] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/lava_hall with rotation NONE at (-873 | 13 | 650)
+[21Jan2025 17:33:27.436] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-54,41]
+[21Jan2025 17:33:29.057] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-54,40]
+[21Jan2025 17:33:29.058] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/lava_hall with rotation NONE at (-873 | 13 | 650)
+[21Jan2025 17:33:29.058] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/lava_hall with rotation NONE at (-873 | 13 | 650)
+[21Jan2025 17:33:29.059] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-54,40]
+[21Jan2025 17:33:29.418] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-54,39]
+[21Jan2025 17:33:29.419] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-54,39]
+[21Jan2025 17:33:29.683] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-54,38]
+[21Jan2025 17:33:29.683] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-54,38]
+[21Jan2025 17:33:29.810] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-54,37]
+[21Jan2025 17:33:29.811] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-54,37]
+[21Jan2025 17:33:30.695] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-54,36]
+[21Jan2025 17:33:30.696] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-54,36]
+[21Jan2025 17:33:31.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CREADOR] [PeneTactico] AquilesXD2 ② was slain by Cave Centipede
+[21Jan2025 17:33:31.113] [Server thread/DEBUG] [tombstone/]: A new grave of the player AquilesXD2 was created at position [x:1259, y:23, z:650, dim:minecraft:overworld]
+[21Jan2025 17:33:31.205] [Server thread/INFO] [tombstone/]: The player AquilesXD2 has successfully been saved
+[21Jan2025 17:33:37.342] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25064ms or 501 ticks behind
+[21Jan2025 17:33:43.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] AquilesXD2 ②: Set own game mode to Creative Mode]
+[21Jan2025 17:34:10.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] jony33D ②: Teleported [CREADOR] [PeneTactico] jony33D ② to [CREADOR] [PeneTactico] AquilesXD2 ②]
+[21Jan2025 17:34:15.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23204ms or 464 ticks behind
+[21Jan2025 17:34:16.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] AquilesXD2 ②: Set own game mode to Survival Mode]
+[21Jan2025 17:34:19.702] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [Victor y Joel] [Miembro] alexAJP ③ has reached level 36 in endurance! [minecraft:overworld|x:1243.16|y:14.00|z:-1317.36]
+[21Jan2025 17:34:22.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CREADOR] [PeneTactico] jony33D ② was blown up by Creeper
+[21Jan2025 17:34:22.244] [Server thread/DEBUG] [tombstone/]: A new grave of the player jony33D was created at position [x:1263, y:23, z:647, dim:minecraft:overworld]
+[21Jan2025 17:34:22.314] [Server thread/INFO] [tombstone/]: The player jony33D has successfully been saved
+[21Jan2025 17:34:40.415] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: Momoliano has reached level 4 in farming! [minecraft:overworld|x:-613.75|y:69.00|z:815.25]
+[21Jan2025 17:34:49.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18490ms or 369 ticks behind
+[21Jan2025 17:35:14.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CREADOR] [PeneTactico] AquilesXD2 ② was blown up by Stray
+[21Jan2025 17:35:14.554] [Server thread/DEBUG] [tombstone/]: A new grave of the player AquilesXD2 was created at position [x:1233, y:21, z:645, dim:minecraft:overworld]
+[21Jan2025 17:35:14.627] [Server thread/INFO] [tombstone/]: The player AquilesXD2 has successfully been saved
+[21Jan2025 17:35:20.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16370ms or 327 ticks behind
+[21Jan2025 17:35:22.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[CREADOR] [PeneTactico] jony33D ②: Teleported [CREADOR] [PeneTactico] jony33D ② to [CREADOR] [PeneTactico] AquilesXD2 ②]
+[21Jan2025 17:35:32.764] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-828 | 49 | 1124).
+[21Jan2025 17:35:32.773] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[21Jan2025 17:35:32.774] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 3(0) Rooms
+[21Jan2025 17:35:32.774] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[21Jan2025 17:35:32.775] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 6(0) Nodes and 6(0) Rooms
+[21Jan2025 17:35:32.775] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[21Jan2025 17:35:32.776] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 6(3) Nodes and 5(0) Rooms
+[21Jan2025 17:35:32.776] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[21Jan2025 17:35:32.777] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 7(4) Nodes and 4(0) Rooms
+[21Jan2025 17:35:32.777] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[21Jan2025 17:35:32.784] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 10(0) Nodes and 4(0) Rooms
+[21Jan2025 17:35:32.790] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Created the dungeon layout for [-47, 75] with a total of 288 pieces.
+[21Jan2025 17:35:42.948] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-460 | 49 | 1140).
+[21Jan2025 17:35:42.948] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[21Jan2025 17:35:42.949] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 3(0) Rooms
+[21Jan2025 17:35:42.949] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[21Jan2025 17:35:42.950] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 6(0) Nodes and 6(0) Rooms
+[21Jan2025 17:35:42.950] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[21Jan2025 17:35:42.950] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 6(3) Nodes and 5(0) Rooms
+[21Jan2025 17:35:42.951] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[21Jan2025 17:35:42.951] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 4(5) Nodes and 5(0) Rooms
+[21Jan2025 17:35:42.951] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[21Jan2025 17:35:42.951] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 10(0) Nodes and 5(0) Rooms
+[21Jan2025 17:35:42.956] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Created the dungeon layout for [-24, 76] with a total of 282 pieces.
+[21Jan2025 17:35:55.043] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19716ms or 394 ticks behind
+[21Jan2025 17:36:33.026] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22998ms or 459 ticks behind
+[21Jan2025 17:36:43.777] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-366, y=22, z=913} but found not block entity block Block{minecraft:diorite} at location
+[21Jan2025 17:36:43.779] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:diorite} but failed at location BlockPos{x=-366, y=22, z=913}
+[21Jan2025 17:36:43.779] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-355, y=22, z=919} but found not block entity block Block{minecraft:cave_air} at location
+[21Jan2025 17:36:43.780] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=-355, y=22, z=919}
+[21Jan2025 17:36:43.781] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-363, y=22, z=927} but found not block entity block Block{minecraft:stone} at location
+[21Jan2025 17:36:43.781] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-363, y=22, z=927}
+[21Jan2025 17:36:43.786] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-360, y=25, z=933} but found not block entity block Block{minecraft:stone} at location
+[21Jan2025 17:36:43.787] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-360, y=25, z=933}
+[21Jan2025 17:36:50.956] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-43,70]
+[21Jan2025 17:36:50.957] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (-687 | 31 | 1130)
+[21Jan2025 17:36:50.957] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (-687 | 31 | 1130)
+[21Jan2025 17:36:50.958] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-689 | 13 | 1125)
+[21Jan2025 17:36:50.958] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-689 | 13 | 1125)
+[21Jan2025 17:36:50.958] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-684 | 13 | 1124)
+[21Jan2025 17:36:50.959] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-684 | 13 | 1124)
+[21Jan2025 17:36:50.961] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (-683 | 13 | 1133)
+[21Jan2025 17:36:50.961] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (-683 | 13 | 1133)
+[21Jan2025 17:36:50.961] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-43,70]
+[21Jan2025 17:36:50.978] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-42,70]
+[21Jan2025 17:36:50.978] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-42,70]
+[21Jan2025 17:36:50.995] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-44,70]
+[21Jan2025 17:36:50.995] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation COUNTERCLOCKWISE_90 at (-713 | 40 | 1122)
+[21Jan2025 17:36:50.996] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation COUNTERCLOCKWISE_90 at (-713 | 40 | 1122)
+[21Jan2025 17:36:50.996] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@589d9279 for dungeoncrawl:default/node/jukebox_room at (-713 | 40 | 1122)
+[21Jan2025 17:36:51.003] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@589d9279 for dungeoncrawl:default/node/jukebox_room at (-713 | 40 | 1122)
+[21Jan2025 17:36:51.004] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (-700 | 27 | 1135)
+[21Jan2025 17:36:51.004] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (-700 | 27 | 1135)
+[21Jan2025 17:36:51.005] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@235e767c for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (-700 | 27 | 1135)
+[21Jan2025 17:36:51.005] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@235e767c for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (-700 | 27 | 1135)
+[21Jan2025 17:36:51.005] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/wall with rotation COUNTERCLOCKWISE_90 at (-704 | 22 | 1133)
+[21Jan2025 17:36:51.005] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/wall with rotation COUNTERCLOCKWISE_90 at (-704 | 22 | 1133)
+[21Jan2025 17:36:51.005] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@235e767c for dungeoncrawl:default/multipart/wall at (-704 | 22 | 1133)
+[21Jan2025 17:36:51.006] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@235e767c for dungeoncrawl:default/multipart/wall at (-704 | 22 | 1133)
+[21Jan2025 17:36:51.006] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (-701 | 22 | 1130)
+[21Jan2025 17:36:51.006] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (-701 | 22 | 1130)
+[21Jan2025 17:36:51.008] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@235e767c for dungeoncrawl:catacombs/multipart/crypt_graves at (-701 | 22 | 1130)
+[21Jan2025 17:36:51.009] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@235e767c for dungeoncrawl:catacombs/multipart/crypt_graves at (-701 | 22 | 1130)
+[21Jan2025 17:36:51.009] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (-694 | 22 | 1134)
+[21Jan2025 17:36:51.009] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (-694 | 22 | 1134)
+[21Jan2025 17:36:51.011] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@235e767c for dungeoncrawl:catacombs/multipart/crypt_graves at (-694 | 22 | 1134)
+[21Jan2025 17:36:51.011] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@235e767c for dungeoncrawl:catacombs/multipart/crypt_graves at (-694 | 22 | 1134)
+[21Jan2025 17:36:51.011] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (-706 | 22 | 1129)
+[21Jan2025 17:36:51.012] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (-706 | 22 | 1129)
+[21Jan2025 17:36:51.012] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@235e767c for dungeoncrawl:catacombs/node/crypt_turn at (-706 | 22 | 1129)
+[21Jan2025 17:36:51.013] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@235e767c for dungeoncrawl:catacombs/node/crypt_turn at (-706 | 22 | 1129)
+[21Jan2025 17:36:51.014] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation CLOCKWISE_180 at (-700 | 20 | 1126)
+[21Jan2025 17:36:51.014] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation CLOCKWISE_180 at (-700 | 20 | 1126)
+[21Jan2025 17:36:51.014] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-689 | 13 | 1125)
+[21Jan2025 17:36:51.015] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-689 | 13 | 1125)
+[21Jan2025 17:36:51.015] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_180 at (-706 | 13 | 1120)
+[21Jan2025 17:36:51.019] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_180 at (-706 | 13 | 1120)
+[21Jan2025 17:36:51.021] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-44,70]
+[21Jan2025 17:36:51.722] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-45,70]
+[21Jan2025 17:36:51.722] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (-709 | 40 | 1135)
+[21Jan2025 17:36:51.722] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (-709 | 40 | 1135)
+[21Jan2025 17:36:51.722] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@589d9279 for dungeoncrawl:default/multipart/node_connector at (-709 | 40 | 1135)
+[21Jan2025 17:36:51.722] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@589d9279 for dungeoncrawl:default/multipart/node_connector at (-709 | 40 | 1135)
+[21Jan2025 17:36:51.723] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation COUNTERCLOCKWISE_90 at (-713 | 40 | 1122)
+[21Jan2025 17:36:51.723] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation COUNTERCLOCKWISE_90 at (-713 | 40 | 1122)
+[21Jan2025 17:36:51.723] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@589d9279 for dungeoncrawl:default/node/jukebox_room at (-713 | 40 | 1122)
+[21Jan2025 17:36:51.724] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@589d9279 for dungeoncrawl:default/node/jukebox_room at (-713 | 40 | 1122)
+[21Jan2025 17:36:51.724] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-716 | 22 | 1134)
+[21Jan2025 17:36:51.724] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-716 | 22 | 1134)
+[21Jan2025 17:36:51.724] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@235e767c for dungeoncrawl:default/node/connector/connector_6 at (-716 | 22 | 1134)
+[21Jan2025 17:36:51.724] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@235e767c for dungeoncrawl:default/node/connector/connector_6 at (-716 | 22 | 1134)
+[21Jan2025 17:36:51.724] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_180 at (-733 | 22 | 1129)
+[21Jan2025 17:36:51.725] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_180 at (-733 | 22 | 1129)
+[21Jan2025 17:36:51.725] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@235e767c for dungeoncrawl:catacombs/node/prison_fork at (-733 | 22 | 1129)
+[21Jan2025 17:36:51.725] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@235e767c for dungeoncrawl:catacombs/node/prison_fork at (-733 | 22 | 1129)
+[21Jan2025 17:36:51.725] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation NONE at (-711 | 22 | 1134)
+[21Jan2025 17:36:51.725] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation NONE at (-711 | 22 | 1134)
+[21Jan2025 17:36:51.725] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@235e767c for dungeoncrawl:default/node/connector/connector_3 at (-711 | 22 | 1134)
+[21Jan2025 17:36:51.726] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@235e767c for dungeoncrawl:default/node/connector/connector_3 at (-711 | 22 | 1134)
+[21Jan2025 17:36:51.726] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (-706 | 22 | 1129)
+[21Jan2025 17:36:51.726] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (-706 | 22 | 1129)
+[21Jan2025 17:36:51.726] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@235e767c for dungeoncrawl:catacombs/node/crypt_turn at (-706 | 22 | 1129)
+[21Jan2025 17:36:51.726] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@235e767c for dungeoncrawl:catacombs/node/crypt_turn at (-706 | 22 | 1129)
+[21Jan2025 17:36:51.726] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_180 at (-706 | 13 | 1120)
+[21Jan2025 17:36:51.726] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_180 at (-706 | 13 | 1120)
+[21Jan2025 17:36:51.727] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-45,70]
+[21Jan2025 17:37:07.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Momoliano has made the advancement [Acquire Hardware]
+[21Jan2025 17:37:10.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22640ms or 452 ticks behind
+[21Jan2025 17:37:13.870] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-351, y=28, z=919} but found not block entity block Block{minecraft:stone} at location
+[21Jan2025 17:37:13.871] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-351, y=28, z=919}
+[21Jan2025 17:37:13.871] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-352, y=28, z=913} but found not block entity block Block{minecraft:stone} at location
+[21Jan2025 17:37:13.871] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-352, y=28, z=913}
+[21Jan2025 17:37:30.103] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [CREADOR] [PeneTactico] jony33D ② has reached level 14 in building! [minecraft:overworld|x:1308.82|y:67.00|z:1037.72]
+[21Jan2025 17:37:30.583] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [Victor y Joel] [Miembro] alexAJP ③ has reached level 38 in combat! [minecraft:overworld|x:1257.93|y:14.00|z:-1365.41]
+[21Jan2025 17:37:41.257] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: [PeneTactico] [Miembro] Rein_WNH ③ has reached level 9 in archery! [minecraft:overworld|x:1193.70|y:25.00|z:602.33]
+[21Jan2025 17:37:47.394] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21816ms or 436 ticks behind
+[21Jan2025 17:37:59.257] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for [Victor y Joel] [Miembro] alexAJP ③ with unique ID 71ad749e-7d4e-4054-8232-5e65146dfa76
+[21Jan2025 17:37:59.258] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1260 Y: 14 Z: -1364
+[21Jan2025 17:37:59.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Victor y Joel] [Miembro] alexAJP ③ was slain by Zombie
+[21Jan2025 17:37:59.276] [Server thread/DEBUG] [tombstone/]: A new grave of the player alexAJP was created at position [x:1258, y:14, z:-1364, dim:minecraft:overworld]
+[21Jan2025 17:37:59.360] [Server thread/INFO] [tombstone/]: The player alexAJP has successfully been saved
