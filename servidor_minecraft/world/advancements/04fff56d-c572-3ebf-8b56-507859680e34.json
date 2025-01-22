@@ -1961,6 +1961,12 @@
     },
     "done": true
   },
+  "mowziesmobs:sneak_village": {
+    "criteria": {
+      "steal_crystal": "2025-01-22 01:37:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:09:26 +0000"

@@ -875,6 +875,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-22 01:47:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_crystal_quartz_slab": {
     "criteria": {
       "has_the_recipe": "2025-01-22 00:01:53 +0000"
@@ -3127,6 +3133,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-01-22 01:49:01 +0000",
       "minecraft:spider": "2025-01-22 00:43:14 +0000",
       "minecraft:zombie": "2025-01-22 00:36:02 +0000",
       "minecraft:zombie_villager": "2025-01-22 00:42:35 +0000"
