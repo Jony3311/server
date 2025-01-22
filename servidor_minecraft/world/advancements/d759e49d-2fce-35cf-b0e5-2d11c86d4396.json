@@ -2567,6 +2567,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-01-22 00:55:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-22 00:01:53 +0000"
@@ -7147,6 +7153,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-01-22 00:53:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_blackstone_wall": {
     "criteria": {
       "has_the_recipe": "2025-01-22 00:01:54 +0000"
@@ -8634,6 +8646,7 @@
       "minecraft:forest": "2025-01-22 00:04:04 +0000",
       "minecraft:desert": "2025-01-22 00:47:38 +0000",
       "minecraft:river": "2025-01-22 00:06:19 +0000",
+      "minecraft:savanna": "2025-01-22 00:55:05 +0000",
       "minecraft:plains": "2025-01-22 00:01:55 +0000"
     },
     "done": false
@@ -9126,6 +9139,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-01-22 00:56:12 +0000",
       "rotten_flesh": "2025-01-22 00:36:30 +0000",
       "beetroot": "2025-01-22 00:49:28 +0000"
     },
@@ -9452,6 +9466,12 @@
   "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-22 00:01:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-22 01:00:04 +0000"
     },
     "done": true
   },
