@@ -10267,6 +10267,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-01-22 02:41:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/skeleton_smithing_iron": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:00:28 +0000"
