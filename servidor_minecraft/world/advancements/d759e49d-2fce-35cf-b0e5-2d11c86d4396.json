@@ -1463,6 +1463,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-01-22 00:42:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/snow_smithing_gold": {
     "criteria": {
       "has_the_recipe": "2025-01-22 00:01:53 +0000"
@@ -3103,7 +3109,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:zombie": "2025-01-22 00:36:02 +0000"
+      "minecraft:spider": "2025-01-22 00:43:14 +0000",
+      "minecraft:zombie": "2025-01-22 00:36:02 +0000",
+      "minecraft:zombie_villager": "2025-01-22 00:42:35 +0000"
     },
     "done": false
   },
@@ -7445,6 +7453,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/emu_dodge": {
+    "criteria": {
+      "ex": "2025-01-22 00:43:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-22 00:01:54 +0000"
@@ -8597,6 +8611,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-01-22 00:43:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/valhelsia_structures_main/bone_pile_block_from_bone_piles": {
     "criteria": {
       "has_the_recipe": "2025-01-22 00:01:54 +0000"
@@ -8612,6 +8632,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-01-22 00:04:04 +0000",
+      "minecraft:desert": "2025-01-22 00:47:38 +0000",
       "minecraft:river": "2025-01-22 00:06:19 +0000",
       "minecraft:plains": "2025-01-22 00:01:55 +0000"
     },
@@ -8728,6 +8749,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_the_recipe": "2025-01-22 00:01:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-22 00:49:03 +0000"
     },
     "done": true
   },
@@ -9099,7 +9126,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "rotten_flesh": "2025-01-22 00:36:30 +0000"
+      "rotten_flesh": "2025-01-22 00:36:30 +0000",
+      "beetroot": "2025-01-22 00:49:28 +0000"
     },
     "done": false
   },

@@ -6755,6 +6755,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-01-22 00:46:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-20 03:00:01 +0000"
@@ -9490,6 +9496,12 @@
   "securitycraft:recipes/securitycraft/reinforced_polished_granite_stairs": {
     "criteria": {
       "has_the_recipe": "2025-01-20 03:00:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-01-22 00:45:04 +0000"
     },
     "done": true
   },
