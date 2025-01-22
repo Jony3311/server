@@ -671,6 +671,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "desert": "2025-01-22 01:30:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/gold_smithing_iron": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:36:00 +0000"
@@ -4292,6 +4298,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:36:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/myrmex_resin": {
+    "criteria": {
+      "desert": "2025-01-22 01:27:03 +0000"
     },
     "done": true
   },

@@ -1031,6 +1031,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-01-22 01:23:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/iron_golem_smithing_gold": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:00:28 +0000"
@@ -3660,6 +3666,12 @@
   "minecraft:recipes/building_blocks/blue_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:00:28 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-01-22 01:27:07 +0000"
     },
     "done": true
   },
