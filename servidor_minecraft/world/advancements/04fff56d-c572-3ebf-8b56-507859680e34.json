@@ -3892,6 +3892,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2025-01-22 00:30:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:09:27 +0000"
@@ -4273,6 +4279,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_the_recipe": "2025-01-20 01:09:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2025-01-22 00:30:33 +0000"
     },
     "done": true
   },
@@ -8830,6 +8842,7 @@
       "minecraft:beach": "2025-01-20 21:10:21 +0000",
       "minecraft:river": "2025-01-20 18:28:56 +0000",
       "minecraft:wooded_mountains": "2025-01-21 22:46:03 +0000",
+      "minecraft:wooded_hills": "2025-01-22 00:34:19 +0000",
       "minecraft:savanna": "2025-01-20 18:29:15 +0000",
       "minecraft:plains": "2025-01-20 01:09:27 +0000"
     },
