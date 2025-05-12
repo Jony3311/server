@@ -4256,3 +4256,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'boliviamod:rodaja_de_pina'
 [12May2025 00:16:00.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [12May2025 00:16:49.874] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jony33D lost connection: Disconnected
 [12May2025 00:16:49.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jony33D left the game
+[12May2025 00:21:00.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 00:21:00.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 00:26:00.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 00:26:00.862] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
